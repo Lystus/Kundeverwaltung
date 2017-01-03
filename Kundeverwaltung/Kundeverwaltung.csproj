@@ -43,8 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bestellung.cs" />
+    <Compile Include="Bestellungen.cs" />
+    <Compile Include="Kunde.cs" />
+    <Compile Include="Neukunde.cs" />
+    <Compile Include="NormalKunde.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Promikunde.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stammkunde.cs" />
+    <Compile Include="Verwaltung.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
