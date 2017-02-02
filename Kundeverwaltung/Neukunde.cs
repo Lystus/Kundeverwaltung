@@ -6,43 +6,55 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class Neukunde : Kunde
+    public class Neukunde : Kunde
     {
         float rabatt = 0.9f;
-        Bestellungen bestellungen;
         Boolean rabattBenutz;
 
-        public Bestellungen Bestellungen
+        public bool RabattBenutz
         {
             get
             {
-                return bestellungen;
+                return rabattBenutz;
             }
 
             set
             {
-                bestellungen = value;
+                rabattBenutz = value;
             }
         }
+
+        public float Rabatt
+        {
+            get
+            {
+                return rabatt;
+            }
+
+            set
+            {
+                rabatt = value;
+            }
+        }
+
         public void addBestellung(Bestellung b)
         {
-            bestellungen.add(b);
+            base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            bestellungen.del(b);
+            base.Bestellungen.del(b);
         }
-        public Neukunde(String n, String l, String o, String s, String t, Intervall i) : base(n, l, o, s, t, i)
+        public Neukunde(String n, String l, String s, String t, Intervall i) : base(n, l, s, t, i)
         {
-            Bestellungen = new Bestellungen();
-            rabattBenutz = false;
+            RabattBenutz = false;
         }
-        public override float kostenBerechnung()
+        public override double kostenBerechnung()
         {
             float stundenLohn = 7.5f;
             float gewinnSatz = 1.05f;
-            float i = 0;
+            double i = 0;
             stundenLohn = stundenLohn * Bestellungen.dauerKostenBerechnung();
             foreach (var item in Bestellungen.List)
             {
@@ -53,13 +65,18 @@ namespace Kundeverwaltung
                 }
             }
             i = (stundenLohn + i) * gewinnSatz;
-            if (rabattBenutz == false)
+            if (RabattBenutz == false)
             {
-                i = i * rabatt;
-                rabattBenutz = true;
+                i = i * Rabatt;
+                RabattBenutz = true;
             }
             base.KundenForderung = i;
             return i;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString()+" Rabattbenutz:"+RabattBenutz;
         }
     }
 }

@@ -12,10 +12,10 @@ namespace Kundeverwaltung
         int bestellungNr;
         DateTime datum;
         TimeSpan dauer;
-        float kosten;
+        double kosten;
         Boolean abgerechnet;
 
-        public Bestellung(String p,int b, DateTime dt, TimeSpan d,float k)
+        public Bestellung(String p,int b, DateTime dt, TimeSpan d,double k)
         {
             Produkt = p;
             BestellungNr = b;
@@ -77,7 +77,7 @@ namespace Kundeverwaltung
             }
         }
 
-        public float Kosten
+        public double Kosten
         {
             get
             {
@@ -101,6 +101,11 @@ namespace Kundeverwaltung
             {
                 abgerechnet = value;
             }
+        }
+
+        public override string ToString()
+        {
+            return Produkt+" Bestell-Nr "+BestellungNr+" Datum:"+Datum+" Kosten:"+Kosten+"$";
         }
     }
 

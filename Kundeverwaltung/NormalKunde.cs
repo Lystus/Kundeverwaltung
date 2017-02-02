@@ -6,41 +6,29 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class NormalKunde : Kunde
+    public class NormalKunde : Kunde
     {
-        Bestellungen bestellungen;
 
-        public NormalKunde(String n, String l, String o, String s, String t,Intervall i) : base(n,l,o,s,t,i)
+        public NormalKunde(String n, String l, String s, String t,Intervall i) : base(n,l,s,t,i)
         {
-            Bestellungen = new Bestellungen();
+            
         }
 
-        public Bestellungen Bestellungen
-        {
-            get
-            {
-                return bestellungen;
-            }
 
-            set
-            {
-                bestellungen = value;
-            }
-        }
         public void addBestellung(Bestellung b)
         {
-            bestellungen.add(b);
+            base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            bestellungen.del(b);
+            base.Bestellungen.del(b);
         }
-        public override float kostenBerechnung()
+        public override double kostenBerechnung()
         {
             float stundenLohn = 7.5f;
             float gewinnSatz = 1.05f;
-            float i = 0;
+            double i = 0;
             stundenLohn=stundenLohn*Bestellungen.dauerKostenBerechnung();
             foreach (var item in Bestellungen.List)
             {
@@ -53,6 +41,12 @@ namespace Kundeverwaltung
             i = (stundenLohn + i) * gewinnSatz;
             base.KundenForderung = i;
             return i;
+        }
+
+        public static explicit operator NormalKunde(Neukunde o)
+        {
+            NormalKunde output = new NormalKunde(o.Name,o.Land,o.Strasse,o.Tel,o.HaeufigkeitNewsletter);
+            return output;
         }
     }
 

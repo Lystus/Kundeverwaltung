@@ -6,42 +6,42 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class Stammkunde : Kunde
+    public class Stammkunde : Kunde
     {
         float rabatt = 0.95f;
-        Bestellungen bestellungen;
 
-        public Bestellungen Bestellungen
+        public float Rabatt
         {
             get
             {
-                return bestellungen;
+                return rabatt;
             }
 
             set
             {
-                bestellungen = value;
+                rabatt = value;
             }
         }
+
         public void addBestellung(Bestellung b)
         {
-            bestellungen.add(b);
+            base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            bestellungen.del(b);
+            base.Bestellungen.del(b);
         }
-        public Stammkunde(String n, String l, String o, String s, String t, Intervall i) : base(n, l, o, s, t, i)
+        public Stammkunde(String n, String l, String s, String t, Intervall i) : base(n, l, s, t, i)
         {
-            Bestellungen = new Bestellungen();
+            
         }
 
-        public override float kostenBerechnung()
+        public override double kostenBerechnung()
         {
             float stundenLohn = 7.5f;
             float gewinnSatz = 1.05f;
-            float i = 0;
+            double i = 0;
             stundenLohn = stundenLohn * Bestellungen.dauerKostenBerechnung();
             foreach (var item in Bestellungen.List)
             {
@@ -51,7 +51,7 @@ namespace Kundeverwaltung
                     item.Abgerechnet = true;
                 }
             }
-            i = ((stundenLohn + i) * gewinnSatz)*rabatt;
+            i = ((stundenLohn + i) * gewinnSatz)*Rabatt;
             base.KundenForderung = i;
             return i;
         }

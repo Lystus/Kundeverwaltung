@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Bestellung.cs" />
     <Compile Include="Bestellungen.cs" />
+    <Compile Include="DataCreationClass.cs" />
     <Compile Include="Kunde.cs" />
     <Compile Include="Neukunde.cs" />
     <Compile Include="NormalKunde.cs" />
@@ -56,6 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kundenbestellungen.xml">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

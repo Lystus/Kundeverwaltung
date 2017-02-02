@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class Promikunde : Kunde
+    public class Promikunde : Kunde
     {
         float rabatt;
-        Bestellungen bestellungen;
-        public Promikunde(String n, String l, String o, String s, String t, Intervall i, float r) : base(n, l, o, s, t, i)
+        public Promikunde(String n, String l, String s, String t, Intervall i, float r) : base(n, l, s, t, i)
         {
             Rabatt = r;
-            Bestellungen = new Bestellungen();
         }
 
         public float Rabatt
@@ -25,41 +23,26 @@ namespace Kundeverwaltung
 
             set
             {
-                if (value <= 50 && value > 0)
-                    rabatt = value;
-                else
-                    throw new ArgumentOutOfRangeException("Rabatt muss größer als 0 und kleiner als 50 Prozent sein");
+                rabatt = value;
             }
         }
 
-        public Bestellungen Bestellungen
-        {
-            get
-            {
-                return bestellungen;
-            }
-
-            set
-            {
-                bestellungen = value;
-            }
-        }
         public void addBestellung(Bestellung b)
         {
-            bestellungen.add(b);
+            base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            bestellungen.del(b);
+            base.Bestellungen.del(b);
         }
-        public override float kostenBerechnung()
+        public override double kostenBerechnung()
         {
             float stundenLohn = 7.5f;
             float gewinnSatz = 1.05f;
-            float i = 0;
-            stundenLohn = stundenLohn * bestellungen.dauerKostenBerechnung();
-            foreach (var item in bestellungen.List)
+            double i = 0;
+            stundenLohn = stundenLohn * base.Bestellungen.dauerKostenBerechnung();
+            foreach (var item in base.Bestellungen.List)
             {
                 if (item.Abgerechnet == false)
                 {
@@ -70,6 +53,10 @@ namespace Kundeverwaltung
             i = ((stundenLohn + i) * gewinnSatz)*rabatt;
             base.KundenForderung = i;
             return i;
+        }
+        public override string ToString()
+        {
+            return base.ToString()+" Rabatt:"+Rabatt;
         }
     }
 }

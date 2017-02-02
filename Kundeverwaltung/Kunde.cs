@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    abstract class Kunde
+    public abstract class Kunde
     {
         String tel;
         String land;
-        String ort;
         String name;
         String kundeCode;
         String strasse;
         Intervall haeufigkeitNewsletter;
-        float kundenForderung;
+        double kundenForderung;
+        Bestellungen bestellungen;
 
 
         public Intervall HaeufigkeitNewsletter
@@ -72,18 +72,6 @@ namespace Kundeverwaltung
             }
         }
 
-        public string Ort
-        {
-            get
-            {
-                return ort;
-            }
-
-            set
-            {
-                ort = value;
-            }
-        }
 
         public string Land
         {
@@ -114,7 +102,7 @@ namespace Kundeverwaltung
             }
         }
 
-        public float KundenForderung
+        public double KundenForderung
         {
             get
             {
@@ -127,22 +115,33 @@ namespace Kundeverwaltung
             }
         }
 
-        public Kunde(String n,String l, String o, String s, String t, Intervall i)
+        public Bestellungen Bestellungen
+        {
+            get
+            {
+                return bestellungen;
+            }
+
+            set
+            {
+                bestellungen = value;
+            }
+        }
+
+        public Kunde(String n,String l, String s, String t, Intervall i)
         {
             Name = n;
             Land = l;
-            Ort = o;
             Strasse = s;
             Tel = t;
             KundeCode = createKundeCode(n);
             HaeufigkeitNewsletter = i;
 
         }
-        public Kunde(String n, String l, String o, String s, String t,String k,Intervall i)
+        public Kunde(String n, String l, String s, String t,String k,Intervall i)
         {
             Name = n;
             Land = l;
-            Ort = o;
             Strasse = s;
             Tel = t;
             KundeCode = k;
@@ -158,8 +157,18 @@ namespace Kundeverwaltung
             code=r.Next(1000, 10000)+"-"+code;
             return code;
         }
-        public abstract float kostenBerechnung();
+        public abstract double kostenBerechnung();
 
+        public override String ToString()
+        {
+            return "Name: "+name+" Kundecode: "+KundeCode+" Land: "+Land+" Straße: "+Strasse+" Tel: "+Tel+" Newsletter: "+HaeufigkeitNewsletter+" Forderung: "+KundenForderung+"$";
+        }
+        public override bool Equals(object obj)
+        {
+            Kunde k = (Kunde)obj;
+
+            return name.Equals(k.name);
+        }
     }
 
     public enum Intervall

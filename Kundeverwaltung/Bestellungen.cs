@@ -43,9 +43,9 @@ namespace Kundeverwaltung
         {
             return List.Count();
         }
-        public float getKostenOfAllBestellung()
+        public double getKostenOfAllBestellung()
         {
-            float i = 0;
+            double i = 0;
             foreach(var item in List)
             {
                 i += item.Kosten;
