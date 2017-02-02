@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class Bestellung
+    public class Bestellung
     {
         String produkt;
         int bestellungNr;

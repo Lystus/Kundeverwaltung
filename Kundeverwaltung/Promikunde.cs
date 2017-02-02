@@ -29,12 +29,14 @@ namespace Kundeverwaltung
 
         public void addBestellung(Bestellung b)
         {
-            base.Bestellungen.add(b);
+            if (b != null)
+                base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            base.Bestellungen.del(b);
+            if (b != null)
+                base.Bestellungen.del(b);
         }
         public override double kostenBerechnung()
         {

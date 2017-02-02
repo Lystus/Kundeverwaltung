@@ -1,0 +1,922 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kundenliste>
+  <Stammkunde Name="Clark Smith" Kunde-Code="2296-CLARK" Land="England" Straße="Hernandez's Road" Tel-nr="+89 9734 313242" Newsletter="monatlich" Forderung="28139" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="781533" Datum="2016-12-24T22:10:10.2415674+01:00" Dauer="07H51M38S" Kosten="6481" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="319363" Datum="2016-04-24T22:10:10.2415674+02:00" Dauer="22H49M25S" Kosten="4524" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="322115" Datum="2016-03-06T22:10:10.2415674+01:00" Dauer="22H12M31S" Kosten="6527" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="294080" Datum="2016-03-05T22:10:10.2420528+01:00" Dauer="03H49M23S" Kosten="6679" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="769172" Datum="2016-08-03T22:10:10.2420528+02:00" Dauer="16H20M47S" Kosten="1382" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="970131" Datum="2016-02-06T22:10:10.2420528+01:00" Dauer="14H56M55S" Kosten="2546" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Grace Olivia" Kunde-Code="2296-GRACE" Land="Canada" Straße="Hall's Alley" Tel-nr="+97 6962 259694" Newsletter="monatlich" Forderung="19998" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Fifa 17" Bestellung-Nr="167818" Datum="2016-08-21T22:10:10.2420528+02:00" Dauer="11H43M59S" Kosten="4461" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="103331" Datum="2016-05-27T22:10:10.2420528+02:00" Dauer="03H48M43S" Kosten="1675" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="956866" Datum="2016-06-01T22:10:10.2420528+02:00" Dauer="12H03M49S" Kosten="4625" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="323477" Datum="2017-01-28T22:10:10.2420528+01:00" Dauer="06H54M25S" Kosten="3004" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="541048" Datum="2016-02-27T22:10:10.2420528+01:00" Dauer="12H02M14S" Kosten="2375" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="751586" Datum="2017-01-03T22:10:10.2420528+01:00" Dauer="11H05M35S" Kosten="3858" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Lopez Collins" Kunde-Code="2296-LOPEZ" Land="France" Straße="King's Alley" Tel-nr="+40 9370 911611" Newsletter="taeglich" Forderung="28227" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="789287" Datum="2016-02-16T22:10:10.2420528+01:00" Dauer="06H41M57S" Kosten="8145" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="678085" Datum="2017-01-25T22:10:10.2420528+01:00" Dauer="00H37M39S" Kosten="8093" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="366965" Datum="2016-12-05T22:10:10.2420528+01:00" Dauer="01H03M24S" Kosten="981" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="310389" Datum="2016-06-10T22:10:10.2420528+02:00" Dauer="15H43M10S" Kosten="1650" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="740184" Datum="2016-07-27T22:10:10.2420528+02:00" Dauer="07H29M17S" Kosten="9358" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Martin Collins" Kunde-Code="2296-MARTI" Land="China" Straße="Parker's Road" Tel-nr="+84 9752 233894" Newsletter="taeglich" Forderung="5443" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="122177" Datum="2016-08-23T22:10:10.2420528+02:00" Dauer="16H54M26S" Kosten="5443" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Chloe Natalie" Kunde-Code="2296-CHLOE" Land="Russia" Straße="Scott's Road" Tel-nr="+42 8409 567753" Newsletter="monatlich" Forderung="34285" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="199623" Datum="2017-01-16T22:10:10.2420528+01:00" Dauer="15H37M04S" Kosten="4804" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="282776" Datum="2016-04-09T22:10:10.2420528+02:00" Dauer="02H33M37S" Kosten="9365" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="931706" Datum="2017-01-28T22:10:10.2420528+01:00" Dauer="04H20M21S" Kosten="7869" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Fifa 17" Bestellung-Nr="228993" Datum="2016-11-29T22:10:10.2420528+01:00" Dauer="23H19M32S" Kosten="1202" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="575692" Datum="2016-12-28T22:10:10.2420528+01:00" Dauer="11H33M54S" Kosten="439" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="529406" Datum="2016-03-27T22:10:10.2420528+02:00" Dauer="21H56M26S" Kosten="9061" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="103837" Datum="2016-03-21T22:10:10.2420528+01:00" Dauer="07H09M18S" Kosten="1545" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Sophie Peyton" Kunde-Code="2296-SOPHI" Land="England" Straße="Hill's Place" Tel-nr="+97 2410 680186" Newsletter="woechentlich" Forderung="39396" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="292061" Datum="2016-12-05T22:10:10.2420528+01:00" Dauer="12H52M31S" Kosten="8898" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="610183" Datum="2016-08-10T22:10:10.2420528+02:00" Dauer="00H05M54S" Kosten="6583" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="849066" Datum="2016-03-14T22:10:10.2420528+01:00" Dauer="13H02M39S" Kosten="6456" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="344599" Datum="2016-09-17T22:10:10.2420528+02:00" Dauer="13H35M22S" Kosten="5145" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="123895" Datum="2016-08-15T22:10:10.2420528+02:00" Dauer="11H31M58S" Kosten="8437" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="117158" Datum="2017-01-24T22:10:10.2420528+01:00" Dauer="04H10M31S" Kosten="3877" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Clark Kaitlyn" Kunde-Code="2296-CLARK" Land="Spain" Straße="Bella's Street" Tel-nr="+25 5947 745102" Newsletter="woechentlich" Forderung="13316" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="401183" Datum="2016-10-06T22:10:10.2420528+02:00" Dauer="16H28M14S" Kosten="5083" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="958745" Datum="2016-10-22T22:10:10.2420528+02:00" Dauer="14H16M39S" Kosten="2976" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="815405" Datum="2016-04-29T22:10:10.2420528+02:00" Dauer="13H25M28S" Kosten="5257" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Peyton Harris" Kunde-Code="2296-PEYTO" Land="Korea" Straße="Edwards's Alley" Tel-nr="+11 8617 891929" Newsletter="nie" Forderung="30290" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="240343" Datum="2016-08-11T22:10:10.2425588+02:00" Dauer="04H06M13S" Kosten="6597" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="765467" Datum="2016-07-08T22:10:10.2425588+02:00" Dauer="03H56M42S" Kosten="313" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="951164" Datum="2016-05-08T22:10:10.2425588+02:00" Dauer="18H22M27S" Kosten="1664" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="487048" Datum="2016-02-24T22:10:10.2425588+01:00" Dauer="01H33M31S" Kosten="4652" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="825303" Datum="2016-05-07T22:10:10.2425588+02:00" Dauer="04H37M21S" Kosten="4209" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="384140" Datum="2016-10-03T22:10:10.2425588+02:00" Dauer="19H52M29S" Kosten="2872" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="756925" Datum="2016-08-12T22:10:10.2425588+02:00" Dauer="13H36M08S" Kosten="5310" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="145895" Datum="2016-02-09T22:10:10.2425588+01:00" Dauer="12H05M22S" Kosten="4673" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Smith Peyton" Kunde-Code="2296-SMITH" Land="Russia" Straße="Stewart's Place" Tel-nr="+37 1661 784980" Newsletter="monatlich" Forderung="23650" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="525179" Datum="2016-06-07T22:10:10.2425588+02:00" Dauer="18H59M07S" Kosten="6859" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="635586" Datum="2016-02-12T22:10:10.2425588+01:00" Dauer="08H11M08S" Kosten="9853" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="602219" Datum="2016-07-16T22:10:10.2425588+02:00" Dauer="08H55M19S" Kosten="192" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="913371" Datum="2016-04-04T22:10:10.2425588+02:00" Dauer="04H21M24S" Kosten="6746" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="King Evans" Kunde-Code="2296-KINGE" Land="Russia" Straße="Wright's Alley" Tel-nr="+47 3804 479311" Newsletter="monatlich" Forderung="16025" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="246949" Datum="2016-04-12T22:10:10.2425588+02:00" Dauer="15H34M51S" Kosten="5149" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="359965" Datum="2016-07-10T22:10:10.2425588+02:00" Dauer="06H26M03S" Kosten="2535" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="179582" Datum="2016-10-12T22:10:10.2425588+02:00" Dauer="23H52M39S" Kosten="2644" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="988814" Datum="2016-10-18T22:10:10.2425588+02:00" Dauer="16H53M10S" Kosten="5697" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Perez Jackson" Kunde-Code="2296-PEREZ" Land="France" Straße="Emma's Road" Tel-nr="+63 1725 581106" Newsletter="monatlich" Forderung="47704" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="908058" Datum="2016-11-28T22:10:10.2425588+01:00" Dauer="06H39M37S" Kosten="7442" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="478904" Datum="2016-09-25T22:10:10.2425588+02:00" Dauer="23H40M10S" Kosten="461" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="251556" Datum="2017-01-21T22:10:10.2425588+01:00" Dauer="09H30M43S" Kosten="7220" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="420933" Datum="2016-11-14T22:10:10.2425588+01:00" Dauer="01H14M47S" Kosten="1547" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="291997" Datum="2016-04-14T22:10:10.2425588+02:00" Dauer="10H09M45S" Kosten="6419" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="686405" Datum="2016-06-13T22:10:10.2425588+02:00" Dauer="14H09M27S" Kosten="8892" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="748359" Datum="2016-05-13T22:10:10.2425588+02:00" Dauer="03H45M40S" Kosten="5876" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="783943" Datum="2016-11-24T22:10:10.2425588+01:00" Dauer="00H49M49S" Kosten="9173" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="907628" Datum="2016-08-17T22:10:10.2425588+02:00" Dauer="23H00M03S" Kosten="674" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Evans Ella" Kunde-Code="2296-EVANS" Land="Canada" Straße="Elizabeth's Place" Tel-nr="+66 7169 579791" Newsletter="monatlich" Forderung="42933" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="155995" Datum="2016-08-27T22:10:10.2425588+02:00" Dauer="01H04M40S" Kosten="4977" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="798896" Datum="2016-12-26T22:10:10.2425588+01:00" Dauer="04H53M09S" Kosten="2699" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="271573" Datum="2016-05-03T22:10:10.2425588+02:00" Dauer="16H47M10S" Kosten="1595" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="442435" Datum="2016-04-24T22:10:10.2425588+02:00" Dauer="08H55M58S" Kosten="1805" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="411501" Datum="2016-03-26T22:10:10.2425588+01:00" Dauer="15H41M39S" Kosten="9563" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="498007" Datum="2016-09-26T22:10:10.2425588+02:00" Dauer="07H42M17S" Kosten="5849" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="898902" Datum="2016-08-18T22:10:10.2425588+02:00" Dauer="23H49M46S" Kosten="8240" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="953372" Datum="2016-11-01T22:10:10.2425588+01:00" Dauer="07H27M07S" Kosten="2828" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="950223" Datum="2016-11-22T22:10:10.2425588+01:00" Dauer="04H46M43S" Kosten="5377" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Walker Baker" Kunde-Code="2296-WALKE" Land="USA" Straße="Allen's Street" Tel-nr="+76 1395 685782" Newsletter="taeglich" Forderung="19382" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="934742" Datum="2016-05-27T22:10:10.2425588+02:00" Dauer="09H44M41S" Kosten="4048" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="518535" Datum="2016-07-26T22:10:10.2425588+02:00" Dauer="06H49M55S" Kosten="9023" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="293547" Datum="2016-09-24T22:10:10.2425588+02:00" Dauer="04H54M27S" Kosten="6311" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Natalie Lewis" Kunde-Code="2296-NATAL" Land="Spain" Straße="Miller's Road" Tel-nr="+18 8301 989070" Newsletter="taeglich" Forderung="35262" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="928950" Datum="2016-08-20T22:10:10.2425588+02:00" Dauer="06H15M46S" Kosten="4499" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="111915" Datum="2016-06-24T22:10:10.2425588+02:00" Dauer="18H59M10S" Kosten="9874" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="171451" Datum="2016-07-05T22:10:10.2425588+02:00" Dauer="16H59M58S" Kosten="9757" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="933016" Datum="2016-07-07T22:10:10.2425588+02:00" Dauer="21H09M48S" Kosten="4726" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="457752" Datum="2016-06-24T22:10:10.2425588+02:00" Dauer="09H58M06S" Kosten="6406" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Stewart White" Kunde-Code="2296-STEWA" Land="Japan" Straße="Turner's Street" Tel-nr="+89 8602 745777" Newsletter="monatlich" Forderung="29316" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="122507" Datum="2016-12-29T22:10:10.2430563+01:00" Dauer="01H59M35S" Kosten="792" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="531934" Datum="2016-05-07T22:10:10.2430563+02:00" Dauer="00H51M50S" Kosten="8732" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="104910" Datum="2017-01-23T22:10:10.2430563+01:00" Dauer="10H10M41S" Kosten="9352" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="528519" Datum="2016-04-13T22:10:10.2430563+02:00" Dauer="01H32M15S" Kosten="2334" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="723720" Datum="2017-01-24T22:10:10.2430563+01:00" Dauer="00H00M51S" Kosten="8106" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Riley Sophia" Kunde-Code="2296-RILEY" Land="Korea" Straße="Brooklyn's Place" Tel-nr="+43 9219 412109" Newsletter="monatlich" Forderung="45709" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="380197" Datum="2017-01-29T22:10:10.2430563+01:00" Dauer="09H50M02S" Kosten="2974" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="401056" Datum="2016-08-28T22:10:10.2430563+02:00" Dauer="12H09M36S" Kosten="4495" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="833460" Datum="2016-12-07T22:10:10.2430563+01:00" Dauer="12H55M36S" Kosten="4246" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="496631" Datum="2016-02-16T22:10:10.2430563+01:00" Dauer="04H47M46S" Kosten="5724" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Fifa 17" Bestellung-Nr="339016" Datum="2016-12-22T22:10:10.2430563+01:00" Dauer="11H20M47S" Kosten="241" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="125376" Datum="2016-06-01T22:10:10.2430563+02:00" Dauer="08H31M06S" Kosten="5933" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="601928" Datum="2016-12-28T22:10:10.2430563+01:00" Dauer="12H43M43S" Kosten="9504" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="469083" Datum="2016-10-08T22:10:10.2430563+02:00" Dauer="10H12M13S" Kosten="5331" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="217805" Datum="2016-12-09T22:10:10.2430563+01:00" Dauer="22H50M22S" Kosten="7261" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Thomas Scott" Kunde-Code="2296-THOMA" Land="USA" Straße="Lauryn's Place" Tel-nr="+68 4007 950802" Newsletter="woechentlich" Forderung="67106" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="350907" Datum="2016-05-04T22:10:10.2430563+02:00" Dauer="21H06M53S" Kosten="9502" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="298468" Datum="2016-04-18T22:10:10.2430563+02:00" Dauer="17H53M51S" Kosten="5977" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="766942" Datum="2016-10-06T22:10:10.2430563+02:00" Dauer="06H31M10S" Kosten="5966" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="625999" Datum="2016-11-26T22:10:10.2430563+01:00" Dauer="18H21M28S" Kosten="1664" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="393022" Datum="2016-12-30T22:10:10.2430563+01:00" Dauer="23H55M06S" Kosten="2105" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="600377" Datum="2016-10-12T22:10:10.2430563+02:00" Dauer="22H16M19S" Kosten="1768" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="693970" Datum="2016-05-07T22:10:10.2430563+02:00" Dauer="04H26M32S" Kosten="9838" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="147184" Datum="2016-10-31T22:10:10.2430563+01:00" Dauer="12H23M03S" Kosten="9270" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="414311" Datum="2016-04-09T22:10:10.2430563+02:00" Dauer="10H48M04S" Kosten="3393" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="582118" Datum="2016-06-25T22:10:10.2430563+02:00" Dauer="18H22M39S" Kosten="8165" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="636057" Datum="2016-10-04T22:10:10.2430563+02:00" Dauer="22H15M02S" Kosten="9312" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="345938" Datum="2016-05-22T22:10:10.2430563+02:00" Dauer="03H05M45S" Kosten="146" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Evans Hill" Kunde-Code="2296-EVANS" Land="Italy" Straße="Hill's Place" Tel-nr="+86 6683 674311" Newsletter="nie" Forderung="26604" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="382283" Datum="2016-04-10T22:10:10.2430563+02:00" Dauer="02H47M58S" Kosten="6660" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="810898" Datum="2017-01-04T22:10:10.2430563+01:00" Dauer="15H00M52S" Kosten="4469" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="965468" Datum="2016-08-31T22:10:10.2430563+02:00" Dauer="08H50M00S" Kosten="677" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="712772" Datum="2016-09-23T22:10:10.2430563+02:00" Dauer="21H54M29S" Kosten="3805" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="232889" Datum="2016-05-20T22:10:10.2430563+02:00" Dauer="12H32M50S" Kosten="341" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="363060" Datum="2016-08-25T22:10:10.2430563+02:00" Dauer="11H53M31S" Kosten="600" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="396545" Datum="2016-08-14T22:10:10.2430563+02:00" Dauer="23H06M54S" Kosten="3454" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="721073" Datum="2016-08-15T22:10:10.2430563+02:00" Dauer="18H05M41S" Kosten="6598" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Stewart Riley" Kunde-Code="2296-STEWA" Land="Italy" Straße="Abigail's Alley" Tel-nr="+47 1086 721076" Newsletter="woechentlich" Forderung="20424" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="130492" Datum="2016-09-09T22:10:10.2435567+02:00" Dauer="17H15M04S" Kosten="6177" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="525209" Datum="2016-05-25T22:10:10.2440575+02:00" Dauer="21H57M58S" Kosten="518" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="168557" Datum="2016-06-10T22:10:10.2440575+02:00" Dauer="17H38M55S" Kosten="3890" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="147644" Datum="2016-03-29T22:10:10.2440575+02:00" Dauer="06H42M07S" Kosten="3691" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="639314" Datum="2016-07-03T22:10:10.2440575+02:00" Dauer="06H48M37S" Kosten="3173" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="209516" Datum="2016-09-25T22:10:10.2440575+02:00" Dauer="11H16M00S" Kosten="2975" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Stammkunde Name="Madelyn Phillips" Kunde-Code="2296-MADEL" Land="Italy" Straße="Jones's Street" Tel-nr="+60 2153 160484" Newsletter="nie" Forderung="34807" Rabatt="0.95">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="251519" Datum="2016-03-15T22:10:10.2440575+01:00" Dauer="10H13M17S" Kosten="4791" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="417407" Datum="2016-02-27T22:10:10.2440575+01:00" Dauer="18H39M15S" Kosten="8990" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="928028" Datum="2016-12-10T22:10:10.2440575+01:00" Dauer="10H29M43S" Kosten="5493" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="108285" Datum="2016-11-17T22:10:10.2440575+01:00" Dauer="21H15M58S" Kosten="9894" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="783223" Datum="2016-09-09T22:10:10.2440575+02:00" Dauer="04H12M41S" Kosten="3956" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="862550" Datum="2016-06-20T22:10:10.2440575+02:00" Dauer="21H38M00S" Kosten="1683" Abgerechnet="true" />
+    </Bestellungen>
+  </Stammkunde>
+  <Normalkunde Name="Peyton Martinez" Kunde-Code="2296-PEYTO" Land="USA" Straße="Moore's Street" Tel-nr="+50 3836 478894" Newsletter="nie" Forderung="31234">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="401120" Datum="2016-11-21T22:10:10.2400449+01:00" Dauer="12H27M12S" Kosten="4823" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="489372" Datum="2016-02-10T22:10:10.2400449+01:00" Dauer="22H35M48S" Kosten="2407" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="912627" Datum="2016-09-08T22:10:10.2400449+02:00" Dauer="09H03M52S" Kosten="6358" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="768072" Datum="2016-11-19T22:10:10.2400449+01:00" Dauer="13H01M35S" Kosten="9684" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="818355" Datum="2016-03-25T22:10:10.2400449+01:00" Dauer="10H33M37S" Kosten="3535" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="212152" Datum="2016-02-21T22:10:10.2400449+01:00" Dauer="09H55M22S" Kosten="4427" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Sophia Green" Kunde-Code="2296-SOPHI" Land="France" Straße="Sophie's Street" Tel-nr="+23 5302 446584" Newsletter="monatlich" Forderung="20161">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="232408" Datum="2017-01-24T22:10:10.2420528+01:00" Dauer="13H03M22S" Kosten="332" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="237517" Datum="2016-02-26T22:10:10.2420528+01:00" Dauer="01H26M59S" Kosten="4930" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="882184" Datum="2016-05-23T22:10:10.2420528+02:00" Dauer="05H34M59S" Kosten="295" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="470367" Datum="2016-08-18T22:10:10.2420528+02:00" Dauer="03H32M13S" Kosten="5426" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="825883" Datum="2016-05-15T22:10:10.2420528+02:00" Dauer="07H44M13S" Kosten="9178" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Peyton Sophia" Kunde-Code="2296-PEYTO" Land="Vietnam" Straße="Turner's Road" Tel-nr="+17 3115 828451" Newsletter="monatlich" Forderung="34575">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="163879" Datum="2016-09-24T22:10:10.2420528+02:00" Dauer="21H14M15S" Kosten="9297" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="461282" Datum="2016-06-20T22:10:10.2420528+02:00" Dauer="08H21M27S" Kosten="303" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="953187" Datum="2016-11-04T22:10:10.2420528+01:00" Dauer="01H31M39S" Kosten="4333" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="847795" Datum="2016-04-17T22:10:10.2420528+02:00" Dauer="19H25M40S" Kosten="3459" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="463767" Datum="2016-07-29T22:10:10.2420528+02:00" Dauer="18H45M48S" Kosten="2017" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="948931" Datum="2016-08-31T22:10:10.2420528+02:00" Dauer="13H22M20S" Kosten="9093" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="917798" Datum="2016-07-23T22:10:10.2420528+02:00" Dauer="12H31M05S" Kosten="6073" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Anderson Mitchell" Kunde-Code="2296-ANDER" Land="Vietnam" Straße="Sarah's Road" Tel-nr="+84 4798 770701" Newsletter="nie" Forderung="21858">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="776086" Datum="2016-10-27T22:10:10.2420528+02:00" Dauer="05H44M24S" Kosten="6207" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="850304" Datum="2016-09-15T22:10:10.2420528+02:00" Dauer="12H05M04S" Kosten="9171" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="616529" Datum="2016-08-19T22:10:10.2420528+02:00" Dauer="22H55M30S" Kosten="6480" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Hall Miller" Kunde-Code="2296-HALLM" Land="China" Straße="Hailey's Place" Tel-nr="+65 2818 248855" Newsletter="taeglich" Forderung="17433">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="918398" Datum="2016-05-17T22:10:10.2420528+02:00" Dauer="17H42M30S" Kosten="666" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="253916" Datum="2016-02-26T22:10:10.2420528+01:00" Dauer="07H03M40S" Kosten="2159" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="418776" Datum="2016-04-09T22:10:10.2420528+02:00" Dauer="19H24M02S" Kosten="5809" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="754335" Datum="2016-04-02T22:10:10.2420528+02:00" Dauer="05H47M18S" Kosten="5127" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="893574" Datum="2016-06-30T22:10:10.2420528+02:00" Dauer="14H44M11S" Kosten="3672" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Thompson Parker" Kunde-Code="2296-THOMP" Land="England" Straße="Turner's Road" Tel-nr="+39 7923 281632" Newsletter="monatlich" Forderung="41645">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="272797" Datum="2016-09-17T22:10:10.2420528+02:00" Dauer="15H49M32S" Kosten="2670" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="427278" Datum="2016-03-29T22:10:10.2420528+02:00" Dauer="00H30M03S" Kosten="4189" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="863390" Datum="2016-11-28T22:10:10.2420528+01:00" Dauer="20H36M41S" Kosten="2036" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="555234" Datum="2016-10-15T22:10:10.2420528+02:00" Dauer="23H14M11S" Kosten="9651" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="170546" Datum="2016-02-06T22:10:10.2420528+01:00" Dauer="06H05M44S" Kosten="6563" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="521218" Datum="2016-06-09T22:10:10.2420528+02:00" Dauer="00H08M43S" Kosten="2246" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="226020" Datum="2016-04-30T22:10:10.2420528+02:00" Dauer="11H32M50S" Kosten="6533" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="366795" Datum="2016-12-02T22:10:10.2420528+01:00" Dauer="03H22M25S" Kosten="7757" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Davis Anna" Kunde-Code="2296-DAVIS" Land="Vietnam" Straße="Lopez's Street" Tel-nr="+75 5637 281627" Newsletter="taeglich" Forderung="5421">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="975762" Datum="2016-08-02T22:10:10.2420528+02:00" Dauer="12H24M23S" Kosten="937" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="584729" Datum="2016-07-29T22:10:10.2420528+02:00" Dauer="19H43M13S" Kosten="4484" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Hall King" Kunde-Code="2296-HALLK" Land="Spain" Straße="Roberts's Road" Tel-nr="+74 8541 447644" Newsletter="taeglich" Forderung="8279">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="907401" Datum="2016-07-01T22:10:10.2420528+02:00" Dauer="20H45M18S" Kosten="3419" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="793407" Datum="2016-05-16T22:10:10.2420528+02:00" Dauer="22H51M01S" Kosten="3156" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="210775" Datum="2016-02-25T22:10:10.2420528+01:00" Dauer="17H49M25S" Kosten="1704" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Amelia Kylie" Kunde-Code="2296-AMELI" Land="Italy" Straße="Hernandez's Place" Tel-nr="+23 8215 263405" Newsletter="nie" Forderung="45432">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="571985" Datum="2016-04-28T22:10:10.2420528+02:00" Dauer="04H46M57S" Kosten="7185" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="955367" Datum="2016-09-22T22:10:10.2420528+02:00" Dauer="17H18M17S" Kosten="1497" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="647533" Datum="2016-02-09T22:10:10.2420528+01:00" Dauer="19H13M02S" Kosten="127" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="900340" Datum="2016-04-08T22:10:10.2420528+02:00" Dauer="11H16M18S" Kosten="6296" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="153314" Datum="2016-10-28T22:10:10.2420528+02:00" Dauer="15H43M59S" Kosten="3698" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="163432" Datum="2016-09-15T22:10:10.2420528+02:00" Dauer="15H59M22S" Kosten="3632" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="547528" Datum="2016-09-14T22:10:10.2420528+02:00" Dauer="08H24M58S" Kosten="4633" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="401436" Datum="2016-04-18T22:10:10.2420528+02:00" Dauer="22H02M45S" Kosten="9095" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="672468" Datum="2016-11-28T22:10:10.2420528+01:00" Dauer="11H19M09S" Kosten="9269" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Campbell Lee" Kunde-Code="2296-CAMPB" Land="Korea" Straße="Thomas's Place" Tel-nr="+18 9250 441163" Newsletter="nie" Forderung="7212">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="132719" Datum="2016-10-15T22:10:10.2425588+02:00" Dauer="17H19M19S" Kosten="5953" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="576670" Datum="2016-07-06T22:10:10.2425588+02:00" Dauer="11H39M33S" Kosten="1259" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Lee Anna" Kunde-Code="2296-LEEAN" Land="Japan" Straße="Edwards's Alley" Tel-nr="+98 3421 263165" Newsletter="taeglich" Forderung="9293">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="557438" Datum="2016-08-23T22:10:10.2425588+02:00" Dauer="10H29M09S" Kosten="382" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="931954" Datum="2016-10-18T22:10:10.2425588+02:00" Dauer="08H23M53S" Kosten="8911" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Walker Roberts" Kunde-Code="2296-WALKE" Land="France" Straße="Lopez's Alley" Tel-nr="+37 6614 555213" Newsletter="woechentlich" Forderung="26257">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="721468" Datum="2016-04-18T22:10:10.2425588+02:00" Dauer="04H48M37S" Kosten="1066" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="455622" Datum="2016-11-06T22:10:10.2425588+01:00" Dauer="12H33M56S" Kosten="8928" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="445952" Datum="2016-03-05T22:10:10.2425588+01:00" Dauer="02H53M43S" Kosten="7234" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="909484" Datum="2016-02-14T22:10:10.2425588+01:00" Dauer="18H56M49S" Kosten="9029" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Garcia Miller" Kunde-Code="2296-GARCI" Land="China" Straße="Brooklyn's Road" Tel-nr="+62 5219 259710" Newsletter="nie" Forderung="28776">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="429248" Datum="2016-07-25T22:10:10.2425588+02:00" Dauer="19H35M41S" Kosten="5446" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="524741" Datum="2016-10-01T22:10:10.2425588+02:00" Dauer="09H50M41S" Kosten="8716" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="770162" Datum="2016-11-14T22:10:10.2425588+01:00" Dauer="17H31M50S" Kosten="7960" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="480090" Datum="2016-08-23T22:10:10.2425588+02:00" Dauer="18H29M44S" Kosten="6654" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Lee Lystus" Kunde-Code="2296-LEELY" Land="Canada" Straße="Natalie's Road" Tel-nr="+57 4371 117163" Newsletter="nie" Forderung="9308">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="455362" Datum="2016-03-21T22:10:10.2425588+01:00" Dauer="10H13M54S" Kosten="5907" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="118666" Datum="2016-06-03T22:10:10.2425588+02:00" Dauer="09H25M36S" Kosten="3401" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Turner Mitchell" Kunde-Code="2296-TURNE" Land="Italy" Straße="Green's Alley" Tel-nr="+15 6042 674546" Newsletter="monatlich" Forderung="35006">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="245867" Datum="2016-12-18T22:10:10.2425588+01:00" Dauer="13H41M16S" Kosten="5361" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="170111" Datum="2016-02-25T22:10:10.2425588+01:00" Dauer="01H55M13S" Kosten="6185" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="935657" Datum="2016-09-13T22:10:10.2425588+02:00" Dauer="20H41M46S" Kosten="2436" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="446106" Datum="2016-05-12T22:10:10.2425588+02:00" Dauer="18H26M00S" Kosten="5167" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="259341" Datum="2016-02-11T22:10:10.2425588+01:00" Dauer="11H21M21S" Kosten="7069" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="591738" Datum="2016-11-28T22:10:10.2425588+01:00" Dauer="22H00M59S" Kosten="8788" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Phillips Hill" Kunde-Code="2296-PHILL" Land="Vietnam" Straße="Thompson's Road" Tel-nr="+58 4953 423666" Newsletter="monatlich" Forderung="24375">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="917715" Datum="2016-03-02T22:10:10.2425588+01:00" Dauer="06H12M33S" Kosten="7675" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="956583" Datum="2016-06-24T22:10:10.2425588+02:00" Dauer="03H47M08S" Kosten="2706" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="372293" Datum="2016-04-19T22:10:10.2425588+02:00" Dauer="04H06M23S" Kosten="7345" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="112348" Datum="2017-01-23T22:10:10.2425588+01:00" Dauer="12H25M50S" Kosten="6649" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Wright Phillips" Kunde-Code="2296-WRIGH" Land="China" Straße="Allen's Road" Tel-nr="+68 3678 415091" Newsletter="nie" Forderung="14523">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="499850" Datum="2016-02-22T22:10:10.2430563+01:00" Dauer="02H45M12S" Kosten="7044" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="123764" Datum="2016-03-29T22:10:10.2430563+02:00" Dauer="11H28M31S" Kosten="7479" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Aubrey Robinson" Kunde-Code="2296-AUBRE" Land="Spain" Straße="Hill's Road" Tel-nr="+48 9605 613840" Newsletter="nie" Forderung="43310">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="969755" Datum="2016-11-22T22:10:10.2430563+01:00" Dauer="20H51M01S" Kosten="9941" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="283563" Datum="2016-07-15T22:10:10.2430563+02:00" Dauer="09H49M54S" Kosten="5351" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="156694" Datum="2016-10-13T22:10:10.2430563+02:00" Dauer="02H40M40S" Kosten="4836" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="186129" Datum="2017-01-06T22:10:10.2430563+01:00" Dauer="00H27M07S" Kosten="6701" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="473838" Datum="2016-09-04T22:10:10.2430563+02:00" Dauer="09H41M35S" Kosten="835" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="615803" Datum="2016-12-18T22:10:10.2430563+01:00" Dauer="12H58M00S" Kosten="6441" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="940695" Datum="2016-06-10T22:10:10.2430563+02:00" Dauer="03H43M34S" Kosten="105" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="698112" Datum="2016-10-08T22:10:10.2430563+02:00" Dauer="01H14M28S" Kosten="7746" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="959597" Datum="2016-11-22T22:10:10.2430563+01:00" Dauer="17H16M04S" Kosten="1354" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Jones Campbell" Kunde-Code="2296-JONES" Land="Italy" Straße="Hill's Place" Tel-nr="+37 7345 848211" Newsletter="woechentlich" Forderung="7192">
+    <Bestellungen>
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="732358" Datum="2016-05-09T22:10:10.2430563+02:00" Dauer="14H46M15S" Kosten="7192" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Carter Addison" Kunde-Code="2296-CARTE" Land="Korea" Straße="Madelyn's Place" Tel-nr="+64 6970 642553" Newsletter="woechentlich" Forderung="28555">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="433523" Datum="2016-10-29T22:10:10.2430563+02:00" Dauer="14H01M30S" Kosten="9038" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="777385" Datum="2016-02-17T22:10:10.2430563+01:00" Dauer="12H49M01S" Kosten="9679" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="705354" Datum="2016-08-18T22:10:10.2430563+02:00" Dauer="20H49M10S" Kosten="6789" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="806649" Datum="2016-08-14T22:10:10.2430563+02:00" Dauer="08H36M24S" Kosten="3049" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Green King" Kunde-Code="2296-GREEN" Land="Canada" Straße="Thompson's Road" Tel-nr="+97 6972 336776" Newsletter="taeglich" Forderung="8952">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="710188" Datum="2016-08-01T22:10:10.2430563+02:00" Dauer="13H42M46S" Kosten="1428" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="442482" Datum="2016-05-12T22:10:10.2430563+02:00" Dauer="04H51M33S" Kosten="1866" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="497403" Datum="2017-01-27T22:10:10.2430563+01:00" Dauer="02H35M03S" Kosten="2268" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="318444" Datum="2016-11-28T22:10:10.2430563+01:00" Dauer="14H49M11S" Kosten="3390" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Emma Lopez" Kunde-Code="2296-EMMAL" Land="England" Straße="Wilson's Street" Tel-nr="+84 6179 337176" Newsletter="nie" Forderung="32803">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="654389" Datum="2016-11-03T22:10:10.2430563+01:00" Dauer="11H13M02S" Kosten="7681" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="551294" Datum="2016-08-03T22:10:10.2430563+02:00" Dauer="05H16M24S" Kosten="7117" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="543640" Datum="2016-10-24T22:10:10.2430563+02:00" Dauer="07H06M09S" Kosten="3027" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="709101" Datum="2016-08-19T22:10:10.2430563+02:00" Dauer="18H12M16S" Kosten="5449" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="963415" Datum="2016-11-10T22:10:10.2430563+01:00" Dauer="07H25M24S" Kosten="2139" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="946968" Datum="2016-05-09T22:10:10.2430563+02:00" Dauer="17H28M16S" Kosten="7390" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Allen Scott" Kunde-Code="2296-ALLEN" Land="Russia" Straße="Gonzalez's Street" Tel-nr="+82 2992 857476" Newsletter="woechentlich" Forderung="8426">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="249197" Datum="2016-07-13T22:10:10.2430563+02:00" Dauer="02H25M49S" Kosten="1073" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="604402" Datum="2016-12-18T22:10:10.2430563+01:00" Dauer="13H54M37S" Kosten="7353" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Thompson Hall" Kunde-Code="2296-THOMP" Land="Korea" Straße="Lily's Road" Tel-nr="+80 3712 362600" Newsletter="monatlich" Forderung="21453">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="331686" Datum="2016-03-23T22:10:10.2430563+01:00" Dauer="06H28M43S" Kosten="9238" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="313468" Datum="2016-10-15T22:10:10.2430563+02:00" Dauer="21H08M46S" Kosten="7343" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="854780" Datum="2016-04-27T22:10:10.2435567+02:00" Dauer="22H47M54S" Kosten="3450" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="787912" Datum="2016-05-04T22:10:10.2435567+02:00" Dauer="03H05M33S" Kosten="1422" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Miller Gonzalez" Kunde-Code="2296-MILLE" Land="Vietnam" Straße="Collins's Alley" Tel-nr="+66 8431 622725" Newsletter="nie" Forderung="19199">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="500926" Datum="2016-08-02T22:10:10.2435567+02:00" Dauer="08H05M23S" Kosten="3141" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="635827" Datum="2017-01-05T22:10:10.2435567+01:00" Dauer="10H27M34S" Kosten="1542" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="682662" Datum="2016-11-16T22:10:10.2435567+01:00" Dauer="18H33M33S" Kosten="6920" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="615626" Datum="2016-07-11T22:10:10.2435567+02:00" Dauer="07H36M56S" Kosten="3647" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="750235" Datum="2017-01-05T22:10:10.2435567+01:00" Dauer="00H49M05S" Kosten="3949" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Campbell Davis" Kunde-Code="2296-CAMPB" Land="USA" Straße="Parker's Road" Tel-nr="+31 3834 742291" Newsletter="nie" Forderung="5492">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="216665" Datum="2016-08-14T22:10:10.2435567+02:00" Dauer="22H01M59S" Kosten="2181" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="578761" Datum="2016-03-12T22:10:10.2435567+01:00" Dauer="02H32M11S" Kosten="586" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="108552" Datum="2016-10-26T22:10:10.2435567+02:00" Dauer="20H05M07S" Kosten="2725" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Edwards Abigail" Kunde-Code="2296-EDWAR" Land="USA" Straße="Lila's Alley" Tel-nr="+76 8649 653957" Newsletter="nie" Forderung="38386">
+    <Bestellungen>
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="399799" Datum="2016-11-13T22:10:10.2435567+01:00" Dauer="04H30M40S" Kosten="8748" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="781206" Datum="2016-08-31T22:10:10.2435567+02:00" Dauer="13H05M19S" Kosten="439" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="184729" Datum="2016-10-19T22:10:10.2435567+02:00" Dauer="14H19M28S" Kosten="9732" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="624158" Datum="2016-11-26T22:10:10.2435567+01:00" Dauer="15H31M04S" Kosten="1967" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="870806" Datum="2016-07-20T22:10:10.2435567+02:00" Dauer="12H51M20S" Kosten="4592" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="543941" Datum="2016-12-05T22:10:10.2435567+01:00" Dauer="23H39M05S" Kosten="1119" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="655643" Datum="2016-06-24T22:10:10.2435567+02:00" Dauer="05H39M18S" Kosten="7364" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="455917" Datum="2016-10-16T22:10:10.2435567+02:00" Dauer="11H19M50S" Kosten="4425" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Normalkunde Name="Claire Hall" Kunde-Code="2296-CLAIR" Land="Canada" Straße="Peyton's Place" Tel-nr="+15 1298 275040" Newsletter="monatlich" Forderung="39690">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="998235" Datum="2016-11-10T22:10:10.2435567+01:00" Dauer="17H15M08S" Kosten="4943" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="869286" Datum="2016-07-12T22:10:10.2435567+02:00" Dauer="16H21M11S" Kosten="5510" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="164688" Datum="2016-09-29T22:10:10.2435567+02:00" Dauer="07H59M42S" Kosten="866" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="516916" Datum="2016-04-21T22:10:10.2435567+02:00" Dauer="04H54M52S" Kosten="6866" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="978390" Datum="2016-09-29T22:10:10.2435567+02:00" Dauer="11H07M12S" Kosten="4881" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="173929" Datum="2016-02-17T22:10:10.2435567+01:00" Dauer="04H58M15S" Kosten="6661" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="925059" Datum="2016-07-25T22:10:10.2435567+02:00" Dauer="14H49M18S" Kosten="3101" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="182660" Datum="2016-04-17T22:10:10.2435567+02:00" Dauer="01H44M46S" Kosten="6862" Abgerechnet="true" />
+    </Bestellungen>
+  </Normalkunde>
+  <Neukunde Name="Hailey Lila" Kunde-Code="2296-HAILE" Land="Spain" Straße="Martin's Alley" Tel-nr="+73 4956 643677" Newsletter="woechentlich" Forderung="19842" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="223913" Datum="2016-05-16T22:10:10.2410456+02:00" Dauer="02H36M15S" Kosten="812" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="686818" Datum="2017-01-18T22:10:10.2410456+01:00" Dauer="12H33M43S" Kosten="5581" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="120340" Datum="2016-10-25T22:10:10.2410456+02:00" Dauer="18H26M27S" Kosten="8726" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="410474" Datum="2016-12-29T22:10:10.2410456+01:00" Dauer="22H05M28S" Kosten="1726" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="328466" Datum="2016-08-12T22:10:10.2410456+02:00" Dauer="23H56M15S" Kosten="1810" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="210887" Datum="2017-01-28T22:10:10.2410456+01:00" Dauer="00H58M37S" Kosten="1187" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Brooklyn Robinson" Kunde-Code="2296-BROOK" Land="Korea" Straße="Grace's Alley" Tel-nr="+81 7863 433948" Newsletter="taeglich" Forderung="13402" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="138094" Datum="2016-08-05T22:10:10.2410456+02:00" Dauer="13H01M28S" Kosten="6944" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="114432" Datum="2016-04-10T22:10:10.2410456+02:00" Dauer="03H40M37S" Kosten="6458" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Charlotte Lopez" Kunde-Code="2296-CHARL" Land="Spain" Straße="Turner's Place" Tel-nr="+97 4501 735884" Newsletter="taeglich" Forderung="34706" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="679792" Datum="2016-03-09T22:10:10.2420528+01:00" Dauer="02H33M26S" Kosten="6593" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="177554" Datum="2016-03-12T22:10:10.2420528+01:00" Dauer="00H28M56S" Kosten="580" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="627921" Datum="2016-03-01T22:10:10.2420528+01:00" Dauer="21H02M19S" Kosten="9118" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="933342" Datum="2017-01-31T22:10:10.2420528+01:00" Dauer="03H30M45S" Kosten="8576" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="539639" Datum="2016-02-03T22:10:10.2420528+01:00" Dauer="10H15M50S" Kosten="9839" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Parker Elizabeth" Kunde-Code="2296-PARKE" Land="Vietnam" Straße="Garcia's Place" Tel-nr="+83 6352 143018" Newsletter="nie" Forderung="8771" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="871670" Datum="2016-06-20T22:10:10.2420528+02:00" Dauer="11H06M50S" Kosten="5538" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="553899" Datum="2016-08-14T22:10:10.2420528+02:00" Dauer="11H05M22S" Kosten="3233" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Lily Nelson" Kunde-Code="2296-LILYN" Land="Vietnam" Straße="Olivia's Alley" Tel-nr="+25 5405 644206" Newsletter="taeglich" Forderung="13672" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="577547" Datum="2016-05-09T22:10:10.2420528+02:00" Dauer="07H06M01S" Kosten="9709" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="384433" Datum="2016-10-31T22:10:10.2420528+01:00" Dauer="01H02M04S" Kosten="3963" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Madison Anderson" Kunde-Code="2296-MADIS" Land="Canada" Straße="Lewis's Alley" Tel-nr="+39 7868 944799" Newsletter="woechentlich" Forderung="18017" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="199621" Datum="2016-02-27T22:10:10.2420528+01:00" Dauer="20H56M31S" Kosten="2974" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="842298" Datum="2016-08-28T22:10:10.2420528+02:00" Dauer="01H14M01S" Kosten="2866" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="937995" Datum="2016-02-22T22:10:10.2420528+01:00" Dauer="23H12M16S" Kosten="5608" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="805063" Datum="2016-04-24T22:10:10.2420528+02:00" Dauer="10H40M08S" Kosten="6569" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Thompson Turner" Kunde-Code="2296-THOMP" Land="England" Straße="Campbell's Alley" Tel-nr="+49 6151 911896" Newsletter="taeglich" Forderung="26068" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="880520" Datum="2016-12-05T22:10:10.2420528+01:00" Dauer="14H26M25S" Kosten="4948" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="966968" Datum="2016-05-05T22:10:10.2420528+02:00" Dauer="17H21M26S" Kosten="6849" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="244466" Datum="2016-06-12T22:10:10.2420528+02:00" Dauer="21H15M48S" Kosten="3516" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="664850" Datum="2016-11-25T22:10:10.2420528+01:00" Dauer="06H16M29S" Kosten="4875" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="267473" Datum="2016-03-05T22:10:10.2420528+01:00" Dauer="20H34M13S" Kosten="4078" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="525399" Datum="2017-01-09T22:10:10.2420528+01:00" Dauer="10H01M44S" Kosten="1802" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Hill Lopez" Kunde-Code="2296-HILLL" Land="Japan" Straße="Nelson's Alley" Tel-nr="+17 3272 735875" Newsletter="woechentlich" Forderung="48055" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="385381" Datum="2016-05-19T22:10:10.2425588+02:00" Dauer="04H58M54S" Kosten="8338" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="184503" Datum="2016-10-06T22:10:10.2425588+02:00" Dauer="08H51M51S" Kosten="5363" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="952222" Datum="2016-12-31T22:10:10.2425588+01:00" Dauer="04H20M20S" Kosten="1406" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Playstation 4" Bestellung-Nr="123120" Datum="2016-09-22T22:10:10.2425588+02:00" Dauer="16H00M31S" Kosten="1847" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="201087" Datum="2016-08-24T22:10:10.2425588+02:00" Dauer="08H45M48S" Kosten="2028" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="850863" Datum="2016-03-11T22:10:10.2425588+01:00" Dauer="10H24M28S" Kosten="9158" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="222791" Datum="2017-01-06T22:10:10.2425588+01:00" Dauer="07H43M16S" Kosten="1784" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="706424" Datum="2017-01-08T22:10:10.2425588+01:00" Dauer="19H37M41S" Kosten="5329" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="467064" Datum="2016-03-09T22:10:10.2425588+01:00" Dauer="08H18M37S" Kosten="7292" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="240890" Datum="2016-11-02T22:10:10.2425588+01:00" Dauer="15H09M30S" Kosten="5510" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Campbell Miller" Kunde-Code="2296-CAMPB" Land="Italy" Straße="Parker's Street" Tel-nr="+25 1733 122445" Newsletter="taeglich" Forderung="15744" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="462412" Datum="2016-08-28T22:10:10.2425588+02:00" Dauer="23H56M43S" Kosten="2876" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="538234" Datum="2016-02-14T22:10:10.2425588+01:00" Dauer="17H41M40S" Kosten="260" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="667333" Datum="2016-08-03T22:10:10.2425588+02:00" Dauer="10H10M18S" Kosten="8377" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="765971" Datum="2016-12-27T22:10:10.2425588+01:00" Dauer="06H09M47S" Kosten="4231" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Nelson King" Kunde-Code="2296-NELSO" Land="England" Straße="Carter's Place" Tel-nr="+20 8330 760650" Newsletter="monatlich" Forderung="22816" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="808174" Datum="2016-05-23T22:10:10.2425588+02:00" Dauer="23H27M27S" Kosten="9674" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="829634" Datum="2016-12-25T22:10:10.2425588+01:00" Dauer="18H59M44S" Kosten="1956" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="451357" Datum="2016-12-27T22:10:10.2425588+01:00" Dauer="16H50M44S" Kosten="6027" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="813928" Datum="2016-06-14T22:10:10.2425588+02:00" Dauer="17H50M06S" Kosten="5159" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Smith Evans" Kunde-Code="2296-SMITH" Land="Canada" Straße="Brooklyn's Place" Tel-nr="+25 8251 837145" Newsletter="taeglich" Forderung="39833" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Fifa 17" Bestellung-Nr="592017" Datum="2016-09-15T22:10:10.2425588+02:00" Dauer="21H06M33S" Kosten="3360" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="583023" Datum="2016-03-06T22:10:10.2425588+01:00" Dauer="23H14M03S" Kosten="8698" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="536331" Datum="2016-07-25T22:10:10.2425588+02:00" Dauer="04H20M16S" Kosten="3237" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="128917" Datum="2016-08-26T22:10:10.2425588+02:00" Dauer="23H28M32S" Kosten="5219" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="730819" Datum="2016-08-17T22:10:10.2425588+02:00" Dauer="03H02M19S" Kosten="5978" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="944872" Datum="2016-03-27T22:10:10.2425588+02:00" Dauer="20H17M00S" Kosten="296" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="981389" Datum="2016-02-20T22:10:10.2425588+01:00" Dauer="22H04M46S" Kosten="8456" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="853657" Datum="2016-10-24T22:10:10.2425588+02:00" Dauer="22H02M45S" Kosten="4589" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Scott Young" Kunde-Code="2296-SCOTT" Land="Spain" Straße="Stewart's Place" Tel-nr="+56 1959 137851" Newsletter="taeglich" Forderung="32459" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="137565" Datum="2016-03-29T22:10:10.2425588+02:00" Dauer="03H04M38S" Kosten="9155" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="893306" Datum="2016-08-19T22:10:10.2425588+02:00" Dauer="02H29M41S" Kosten="3259" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="209424" Datum="2017-01-03T22:10:10.2425588+01:00" Dauer="12H30M06S" Kosten="6342" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="559214" Datum="2016-08-13T22:10:10.2425588+02:00" Dauer="11H18M25S" Kosten="5405" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="853652" Datum="2016-04-29T22:10:10.2425588+02:00" Dauer="11H19M50S" Kosten="8298" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Ava Moore" Kunde-Code="2296-AVAMO" Land="Korea" Straße="Thompson's Place" Tel-nr="+71 5526 111935" Newsletter="monatlich" Forderung="9782" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="622417" Datum="2017-01-10T22:10:10.2430563+01:00" Dauer="00H17M10S" Kosten="1654" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="300120" Datum="2016-06-28T22:10:10.2430563+02:00" Dauer="18H43M06S" Kosten="8128" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Kaylee Evans" Kunde-Code="2296-KAYLE" Land="Canada" Straße="Martinez's Street" Tel-nr="+31 7650 273904" Newsletter="taeglich" Forderung="38240" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="241921" Datum="2016-11-10T22:10:10.2430563+01:00" Dauer="12H20M55S" Kosten="8912" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="127549" Datum="2016-10-10T22:10:10.2430563+02:00" Dauer="19H30M09S" Kosten="4045" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="905574" Datum="2016-07-27T22:10:10.2430563+02:00" Dauer="08H23M53S" Kosten="2666" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="883599" Datum="2016-05-14T22:10:10.2430563+02:00" Dauer="08H49M03S" Kosten="8349" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="383205" Datum="2016-03-20T22:10:10.2430563+01:00" Dauer="01H21M12S" Kosten="659" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="923435" Datum="2016-10-14T22:10:10.2430563+02:00" Dauer="10H49M53S" Kosten="6910" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="354214" Datum="2016-11-28T22:10:10.2430563+01:00" Dauer="04H50M44S" Kosten="6699" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Sarah Madison" Kunde-Code="2296-SARAH" Land="Japan" Straße="Clark's Road" Tel-nr="+23 8680 652675" Newsletter="nie" Forderung="7602" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="205822" Datum="2016-10-05T22:10:10.2430563+02:00" Dauer="14H41M13S" Kosten="2534" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="619607" Datum="2016-08-01T22:10:10.2430563+02:00" Dauer="02H57M34S" Kosten="2462" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="240627" Datum="2016-07-21T22:10:10.2430563+02:00" Dauer="09H07M02S" Kosten="2606" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Jones Robinson" Kunde-Code="2296-JONES" Land="Vietnam" Straße="Wilson's Place" Tel-nr="+25 4624 735782" Newsletter="monatlich" Forderung="10421" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="547210" Datum="2016-03-30T22:10:10.2430563+02:00" Dauer="02H58M51S" Kosten="6080" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="597486" Datum="2017-01-18T22:10:10.2430563+01:00" Dauer="14H30M36S" Kosten="4341" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Lystus Collins" Kunde-Code="2296-LYSTU" Land="Spain" Straße="Sophie's Street" Tel-nr="+82 4191 121914" Newsletter="monatlich" Forderung="33489" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="679703" Datum="2016-03-19T22:10:10.2435567+01:00" Dauer="07H03M05S" Kosten="4752" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="720040" Datum="2016-02-24T22:10:10.2435567+01:00" Dauer="11H27M21S" Kosten="9537" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="522483" Datum="2016-02-18T22:10:10.2435567+01:00" Dauer="18H41M42S" Kosten="5766" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="102132" Datum="2016-04-11T22:10:10.2435567+02:00" Dauer="22H09M21S" Kosten="9244" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="263941" Datum="2017-01-04T22:10:10.2435567+01:00" Dauer="16H11M03S" Kosten="3743" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="428800" Datum="2016-02-19T22:10:10.2435567+01:00" Dauer="22H49M11S" Kosten="447" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Young Madelyn" Kunde-Code="2296-YOUNG" Land="Japan" Straße="Avery's Place" Tel-nr="+37 3100 685526" Newsletter="monatlich" Forderung="57750" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="217432" Datum="2016-10-10T22:10:10.2435567+02:00" Dauer="22H30M43S" Kosten="6263" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="300492" Datum="2016-12-21T22:10:10.2435567+01:00" Dauer="02H12M38S" Kosten="4638" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="911302" Datum="2016-07-22T22:10:10.2435567+02:00" Dauer="15H20M33S" Kosten="8939" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="627610" Datum="2016-03-23T22:10:10.2435567+01:00" Dauer="10H21M33S" Kosten="8580" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="752897" Datum="2016-09-25T22:10:10.2435567+02:00" Dauer="04H32M44S" Kosten="2374" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="861732" Datum="2016-10-07T22:10:10.2435567+02:00" Dauer="01H56M25S" Kosten="6800" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="385765" Datum="2016-10-07T22:10:10.2435567+02:00" Dauer="11H12M55S" Kosten="6403" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Cooler Master Storm Octane" Bestellung-Nr="792058" Datum="2016-06-27T22:10:10.2435567+02:00" Dauer="17H24M22S" Kosten="6837" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="189159" Datum="2016-02-10T22:10:10.2435567+01:00" Dauer="07H26M59S" Kosten="6916" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Neukunde Name="Moore Evans" Kunde-Code="2296-MOORE" Land="Canada" Straße="Perez's Place" Tel-nr="+36 6595 707732" Newsletter="nie" Forderung="19896" Rabatt="0.9" Rabattbenutzt="false">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="608441" Datum="2016-09-15T22:10:10.2435567+02:00" Dauer="15H17M34S" Kosten="8749" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="847376" Datum="2016-08-24T22:10:10.2435567+02:00" Dauer="05H59M30S" Kosten="2859" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="639370" Datum="2016-06-30T22:10:10.2435567+02:00" Dauer="12H09M18S" Kosten="7104" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="231028" Datum="2016-07-02T22:10:10.2435567+02:00" Dauer="03H53M07S" Kosten="1184" Abgerechnet="true" />
+    </Bestellungen>
+  </Neukunde>
+  <Promikunde Name="Emma Anna" Kunde-Code="8066-EMMAA" Land="China" Straße="Thompson's Alley" Tel-nr="+71 6535 579577" Newsletter="monatlich" Forderung="28645" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="126443" Datum="2016-07-17T22:10:10.2230302+02:00" Dauer="09H48M19S" Kosten="5299" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="426155" Datum="2016-11-22T22:10:10.2395445+01:00" Dauer="23H54M01S" Kosten="6381" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="480113" Datum="2016-03-27T22:10:10.2395445+02:00" Dauer="21H37M33S" Kosten="2377" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="869880" Datum="2016-07-04T22:10:10.2395445+02:00" Dauer="19H52M58S" Kosten="8695" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="178531" Datum="2016-02-11T22:10:10.2395445+01:00" Dauer="01H07M41S" Kosten="3937" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="642719" Datum="2016-02-04T22:10:10.2395445+01:00" Dauer="04H04M22S" Kosten="1956" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Campbell Harris" Kunde-Code="2296-CAMPB" Land="China" Straße="Parker's Road" Tel-nr="+81 2532 597390" Newsletter="monatlich" Forderung="33128" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="239594" Datum="2016-03-25T22:10:10.2405452+01:00" Dauer="13H02M03S" Kosten="3490" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="139600" Datum="2016-04-02T22:10:10.2405452+02:00" Dauer="19H21M51S" Kosten="1459" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="480307" Datum="2016-11-06T22:10:10.2405452+01:00" Dauer="06H07M43S" Kosten="5365" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="652622" Datum="2016-07-02T22:10:10.2405452+02:00" Dauer="05H12M48S" Kosten="2926" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="854936" Datum="2016-03-18T22:10:10.2405452+01:00" Dauer="08H07M23S" Kosten="3075" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="783823" Datum="2016-02-21T22:10:10.2405452+01:00" Dauer="21H40M48S" Kosten="9071" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="732471" Datum="2017-01-12T22:10:10.2405452+01:00" Dauer="05H01M35S" Kosten="7742" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Martinez Layla" Kunde-Code="2296-MARTI" Land="USA" Straße="Phillips's Road" Tel-nr="+86 1441 597372" Newsletter="monatlich" Forderung="24128" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="952533" Datum="2016-11-13T22:10:10.2405452+01:00" Dauer="03H59M44S" Kosten="3142" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="348613" Datum="2016-03-19T22:10:10.2405452+01:00" Dauer="07H32M00S" Kosten="9106" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="586610" Datum="2016-05-16T22:10:10.2405452+02:00" Dauer="04H56M28S" Kosten="7432" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="987594" Datum="2016-06-28T22:10:10.2405452+02:00" Dauer="06H10M11S" Kosten="2045" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="167713" Datum="2017-01-24T22:10:10.2405452+01:00" Dauer="21H29M17S" Kosten="2403" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="King Hernandez" Kunde-Code="2296-KINGH" Land="China" Straße="Thompson's Alley" Tel-nr="+25 2117 249918" Newsletter="woechentlich" Forderung="34395" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="395620" Datum="2016-10-08T22:10:10.2420528+02:00" Dauer="23H43M13S" Kosten="4858" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="443510" Datum="2016-11-23T22:10:10.2420528+01:00" Dauer="12H03M05S" Kosten="5926" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="784284" Datum="2016-05-27T22:10:10.2420528+02:00" Dauer="20H43M57S" Kosten="2711" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="565496" Datum="2017-01-20T22:10:10.2420528+01:00" Dauer="05H39M21S" Kosten="4903" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="760648" Datum="2016-11-25T22:10:10.2420528+01:00" Dauer="06H05M52S" Kosten="4588" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="147829" Datum="2016-03-24T22:10:10.2420528+01:00" Dauer="09H36M24S" Kosten="3766" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="979758" Datum="2016-06-16T22:10:10.2420528+02:00" Dauer="10H41M51S" Kosten="3905" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="764380" Datum="2016-04-29T22:10:10.2420528+02:00" Dauer="21H02M40S" Kosten="3738" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Anderson Collins" Kunde-Code="2296-ANDER" Land="France" Straße="King's Place" Tel-nr="+83 7751 516034" Newsletter="taeglich" Forderung="40583" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="189243" Datum="2016-06-25T22:10:10.2420528+02:00" Dauer="04H54M43S" Kosten="8374" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="790774" Datum="2016-02-04T22:10:10.2420528+01:00" Dauer="17H23M40S" Kosten="3543" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="839180" Datum="2016-10-03T22:10:10.2420528+02:00" Dauer="07H02M51S" Kosten="9378" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="295331" Datum="2016-02-28T22:10:10.2420528+01:00" Dauer="22H11M10S" Kosten="4444" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="409123" Datum="2016-06-20T22:10:10.2420528+02:00" Dauer="09H48M41S" Kosten="4052" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="679189" Datum="2016-09-18T22:10:10.2420528+02:00" Dauer="22H29M41S" Kosten="7088" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="767810" Datum="2017-01-03T22:10:10.2420528+01:00" Dauer="19H13M23S" Kosten="3704" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Gonzalez Layla" Kunde-Code="2296-GONZA" Land="China" Straße="Turner's Road" Tel-nr="+30 5341 824978" Newsletter="taeglich" Forderung="43029" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="736703" Datum="2016-09-26T22:10:10.2420528+02:00" Dauer="16H49M42S" Kosten="4766" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="292477" Datum="2016-04-26T22:10:10.2420528+02:00" Dauer="15H44M47S" Kosten="2221" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="764769" Datum="2016-10-31T22:10:10.2420528+01:00" Dauer="23H47M21S" Kosten="7026" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="677597" Datum="2016-03-13T22:10:10.2420528+01:00" Dauer="12H33M02S" Kosten="8849" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="323986" Datum="2016-12-29T22:10:10.2420528+01:00" Dauer="20H12M23S" Kosten="7557" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="906411" Datum="2016-07-08T22:10:10.2420528+02:00" Dauer="15H02M10S" Kosten="9906" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="944117" Datum="2016-02-24T22:10:10.2420528+01:00" Dauer="01H57M25S" Kosten="2704" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Martin Stewart" Kunde-Code="2296-MARTI" Land="Canada" Straße="Scott's Place" Tel-nr="+90 1986 189469" Newsletter="woechentlich" Forderung="40063" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="280909" Datum="2016-09-22T22:10:10.2420528+02:00" Dauer="23H38M32S" Kosten="8442" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="526071" Datum="2016-08-13T22:10:10.2420528+02:00" Dauer="07H40M15S" Kosten="9266" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="578249" Datum="2016-08-03T22:10:10.2420528+02:00" Dauer="04H20M01S" Kosten="6927" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung S7 Edge" Bestellung-Nr="725432" Datum="2016-03-14T22:10:10.2420528+01:00" Dauer="01H18M31S" Kosten="1872" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="170565" Datum="2016-10-05T22:10:10.2420528+02:00" Dauer="22H27M29S" Kosten="5677" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="551083" Datum="2016-12-29T22:10:10.2420528+01:00" Dauer="09H00M03S" Kosten="7879" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Addison Martinez" Kunde-Code="2296-ADDIS" Land="Korea" Straße="Ava's Street" Tel-nr="+80 3709 514238" Newsletter="woechentlich" Forderung="28620" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="173929" Datum="2016-10-12T22:10:10.2420528+02:00" Dauer="07H34M08S" Kosten="810" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="938068" Datum="2016-03-03T22:10:10.2420528+01:00" Dauer="02H31M58S" Kosten="3271" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="528837" Datum="2016-02-20T22:10:10.2420528+01:00" Dauer="14H57M45S" Kosten="992" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="355347" Datum="2016-02-07T22:10:10.2420528+01:00" Dauer="18H01M57S" Kosten="3740" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Macbook" Bestellung-Nr="373761" Datum="2016-12-03T22:10:10.2420528+01:00" Dauer="02H19M15S" Kosten="6333" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="615471" Datum="2016-06-25T22:10:10.2420528+02:00" Dauer="19H29M42S" Kosten="8594" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="992319" Datum="2016-12-05T22:10:10.2420528+01:00" Dauer="14H12M21S" Kosten="3319" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="493471" Datum="2016-02-24T22:10:10.2420528+01:00" Dauer="00H43M05S" Kosten="1561" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Young Lee" Kunde-Code="2296-YOUNG" Land="Spain" Straße="Sophia's Alley" Tel-nr="+89 6121 672867" Newsletter="nie" Forderung="17734" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="852263" Datum="2017-01-19T22:10:10.2420528+01:00" Dauer="13H34M28S" Kosten="6409" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="752325" Datum="2016-02-05T22:10:10.2420528+01:00" Dauer="13H06M49S" Kosten="9051" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="673691" Datum="2016-09-01T22:10:10.2420528+02:00" Dauer="09H27M28S" Kosten="2274" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Sophia Nelson" Kunde-Code="2296-SOPHI" Land="Spain" Straße="Nelson's Street" Tel-nr="+89 3237 641208" Newsletter="monatlich" Forderung="18915" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="557102" Datum="2016-10-04T22:10:10.2420528+02:00" Dauer="05H37M49S" Kosten="2030" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dishonored 2" Bestellung-Nr="981661" Datum="2017-01-20T22:10:10.2420528+01:00" Dauer="19H39M23S" Kosten="4100" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Gear VR" Bestellung-Nr="376211" Datum="2016-08-23T22:10:10.2420528+02:00" Dauer="10H12M02S" Kosten="5436" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="677946" Datum="2016-04-09T22:10:10.2420528+02:00" Dauer="05H02M06S" Kosten="7349" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Clark Hall" Kunde-Code="2296-CLARK" Land="China" Straße="Lauryn's Alley" Tel-nr="+69 4332 448544" Newsletter="nie" Forderung="15846" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="623430" Datum="2016-03-19T22:10:10.2420528+01:00" Dauer="18H48M00S" Kosten="7325" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="372781" Datum="2016-06-27T22:10:10.2420528+02:00" Dauer="19H49M38S" Kosten="649" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Grand Kingdom PS Vita" Bestellung-Nr="364661" Datum="2016-06-07T22:10:10.2420528+02:00" Dauer="00H52M08S" Kosten="7872" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Davis Campbell" Kunde-Code="2296-DAVIS" Land="Italy" Straße="Rodriguez's Place" Tel-nr="+19 5335 525160" Newsletter="nie" Forderung="20043" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple iPhone 5s" Bestellung-Nr="497216" Datum="2016-04-20T22:10:10.2420528+02:00" Dauer="01H56M12S" Kosten="4358" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="409518" Datum="2017-01-19T22:10:10.2420528+01:00" Dauer="04H42M43S" Kosten="4629" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="776884" Datum="2016-04-10T22:10:10.2420528+02:00" Dauer="13H47M23S" Kosten="8209" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="121815" Datum="2016-05-08T22:10:10.2420528+02:00" Dauer="17H56M05S" Kosten="2847" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Carter Anderson" Kunde-Code="2296-CARTE" Land="China" Straße="Baker's Place" Tel-nr="+14 3120 729470" Newsletter="taeglich" Forderung="14439" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="674170" Datum="2016-10-07T22:10:10.2420528+02:00" Dauer="02H36M18S" Kosten="8416" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="292402" Datum="2016-08-02T22:10:10.2420528+02:00" Dauer="13H52M43S" Kosten="2504" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="875765" Datum="2016-09-22T22:10:10.2420528+02:00" Dauer="17H12M52S" Kosten="3519" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Wilson Lopez" Kunde-Code="2296-WILSO" Land="Italy" Straße="Anderson's Alley" Tel-nr="+21 2064 570187" Newsletter="nie" Forderung="55754" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="798428" Datum="2016-08-11T22:10:10.2420528+02:00" Dauer="15H31M09S" Kosten="808" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="449377" Datum="2016-10-05T22:10:10.2420528+02:00" Dauer="16H20M17S" Kosten="1701" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="881903" Datum="2016-09-22T22:10:10.2420528+02:00" Dauer="20H25M53S" Kosten="1697" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="776886" Datum="2016-10-17T22:10:10.2420528+02:00" Dauer="20H52M19S" Kosten="7996" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="871116" Datum="2016-04-14T22:10:10.2420528+02:00" Dauer="00H53M20S" Kosten="8737" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="414628" Datum="2016-07-20T22:10:10.2420528+02:00" Dauer="20H59M39S" Kosten="4202" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="752300" Datum="2016-09-16T22:10:10.2420528+02:00" Dauer="16H28M37S" Kosten="1732" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="881730" Datum="2016-07-16T22:10:10.2420528+02:00" Dauer="01H51M51S" Kosten="4019" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="283540" Datum="2017-01-28T22:10:10.2420528+01:00" Dauer="02H58M46S" Kosten="1945" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="523375" Datum="2016-04-16T22:10:10.2420528+02:00" Dauer="17H25M59S" Kosten="4414" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="170631" Datum="2016-09-02T22:10:10.2420528+02:00" Dauer="06H52M07S" Kosten="8319" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="259776" Datum="2016-07-27T22:10:10.2420528+02:00" Dauer="18H28M31S" Kosten="9781" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="995459" Datum="2016-04-19T22:10:10.2420528+02:00" Dauer="16H28M31S" Kosten="403" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Grace Emily" Kunde-Code="2296-GRACE" Land="Spain" Straße="Parker's Place" Tel-nr="+74 9969 117471" Newsletter="taeglich" Forderung="9438" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="361616" Datum="2017-01-30T22:10:10.2425588+01:00" Dauer="09H09M06S" Kosten="7427" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Acer Notebook" Bestellung-Nr="231870" Datum="2017-01-06T22:10:10.2425588+01:00" Dauer="16H41M34S" Kosten="2011" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Lewis Allen" Kunde-Code="2296-LEWIS" Land="Italy" Straße="Harris's Place" Tel-nr="+84 6654 851551" Newsletter="woechentlich" Forderung="3988" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="695109" Datum="2016-07-18T22:10:10.2425588+02:00" Dauer="21H23M00S" Kosten="2658" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Witcher 3 Wild Hunt" Bestellung-Nr="697527" Datum="2017-01-29T22:10:10.2425588+01:00" Dauer="12H12M46S" Kosten="1215" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="601784" Datum="2016-02-22T22:10:10.2425588+01:00" Dauer="10H22M21S" Kosten="115" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Collins Martinez" Kunde-Code="2296-COLLI" Land="USA" Straße="Walker's Street" Tel-nr="+73 4021 773892" Newsletter="taeglich" Forderung="42419" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="374085" Datum="2016-02-15T22:10:10.2425588+01:00" Dauer="06H21M32S" Kosten="5515" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="551222" Datum="2016-04-15T22:10:10.2425588+02:00" Dauer="01H21M58S" Kosten="6917" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="890571" Datum="2016-04-18T22:10:10.2425588+02:00" Dauer="18H51M39S" Kosten="6662" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="981365" Datum="2016-05-27T22:10:10.2425588+02:00" Dauer="14H26M52S" Kosten="4899" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="944429" Datum="2017-02-02T22:10:10.2425588+01:00" Dauer="21H10M00S" Kosten="4035" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nextcore Noon VR" Bestellung-Nr="138659" Datum="2016-04-01T22:10:10.2425588+02:00" Dauer="14H03M01S" Kosten="226" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="546560" Datum="2016-08-11T22:10:10.2425588+02:00" Dauer="09H35M35S" Kosten="994" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="763434" Datum="2016-12-31T22:10:10.2425588+01:00" Dauer="23H34M37S" Kosten="3429" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bioshock" Bestellung-Nr="400440" Datum="2016-05-02T22:10:10.2425588+02:00" Dauer="20H21M42S" Kosten="7420" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="464737" Datum="2016-02-15T22:10:10.2425588+01:00" Dauer="17H35M14S" Kosten="2322" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Moore Addison" Kunde-Code="2296-MOORE" Land="Canada" Straße="Perez's Place" Tel-nr="+11 4707 344731" Newsletter="nie" Forderung="10803" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="176565" Datum="2016-09-30T22:10:10.2425588+02:00" Dauer="20H45M04S" Kosten="6009" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="552398" Datum="2016-03-24T22:10:10.2425588+01:00" Dauer="22H34M14S" Kosten="4794" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Stewart Baker" Kunde-Code="2296-STEWA" Land="USA" Straße="Madison's Street" Tel-nr="+35 9716 269363" Newsletter="woechentlich" Forderung="6248" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="284865" Datum="2016-12-15T22:10:10.2425588+01:00" Dauer="15H26M28S" Kosten="608" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony Playstation VR" Bestellung-Nr="835172" Datum="2016-06-17T22:10:10.2425588+02:00" Dauer="06H15M36S" Kosten="426" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="175289" Datum="2016-05-06T22:10:10.2425588+02:00" Dauer="01H49M28S" Kosten="5214" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Harris Allen" Kunde-Code="2296-HARRI" Land="Vietnam" Straße="Bella's Road" Tel-nr="+28 8011 824129" Newsletter="monatlich" Forderung="47197" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="635228" Datum="2016-03-17T22:10:10.2425588+01:00" Dauer="15H07M00S" Kosten="5766" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Samsung Galaxy Tab A" Bestellung-Nr="710773" Datum="2016-05-09T22:10:10.2425588+02:00" Dauer="19H03M47S" Kosten="349" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="215728" Datum="2016-02-21T22:10:10.2425588+01:00" Dauer="02H00M21S" Kosten="9811" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="573013" Datum="2016-04-02T22:10:10.2425588+02:00" Dauer="01H47M51S" Kosten="4735" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="881875" Datum="2016-10-05T22:10:10.2425588+02:00" Dauer="20H07M54S" Kosten="5142" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="166386" Datum="2016-09-07T22:10:10.2425588+02:00" Dauer="04H12M21S" Kosten="5438" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="384373" Datum="2016-06-21T22:10:10.2425588+02:00" Dauer="14H40M14S" Kosten="2727" Abgerechnet="true" />
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="387602" Datum="2016-03-04T22:10:10.2425588+01:00" Dauer="22H19M33S" Kosten="3521" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="704765" Datum="2017-01-19T22:10:10.2425588+01:00" Dauer="02H33M57S" Kosten="6038" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="700895" Datum="2016-09-28T22:10:10.2425588+02:00" Dauer="13H30M22S" Kosten="3670" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Lopez Hernandez" Kunde-Code="2296-LOPEZ" Land="Russia" Straße="Lila's Road" Tel-nr="+97 6523 831703" Newsletter="monatlich" Forderung="12764" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Samsung Galaxy J3" Bestellung-Nr="195195" Datum="2016-07-31T22:10:10.2425588+02:00" Dauer="13H19M06S" Kosten="3102" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="913654" Datum="2016-06-10T22:10:10.2425588+02:00" Dauer="01H24M06S" Kosten="9662" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Nelson Lee" Kunde-Code="2296-NELSO" Land="Canada" Straße="Wilson's Road" Tel-nr="+98 3627 295499" Newsletter="monatlich" Forderung="7167" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Kindle Paperwhite" Bestellung-Nr="600623" Datum="2016-04-19T22:10:10.2425588+02:00" Dauer="10H52M43S" Kosten="1369" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="286656" Datum="2016-06-21T22:10:10.2425588+02:00" Dauer="01H34M40S" Kosten="5798" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Brooklyn Young" Kunde-Code="2296-BROOK" Land="Italy" Straße="Perez's Place" Tel-nr="+55 6829 529606" Newsletter="nie" Forderung="7298" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="GTA 5 PS4" Bestellung-Nr="127332" Datum="2016-04-20T22:10:10.2425588+02:00" Dauer="03H00M00S" Kosten="3835" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="538060" Datum="2016-02-26T22:10:10.2425588+01:00" Dauer="09H10M43S" Kosten="3463" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Hill Peyton" Kunde-Code="2296-HILLP" Land="France" Straße="Wilson's Place" Tel-nr="+88 4815 550702" Newsletter="taeglich" Forderung="32855" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="503678" Datum="2016-11-27T22:10:10.2430563+01:00" Dauer="10H29M51S" Kosten="9726" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="516496" Datum="2016-09-21T22:10:10.2430563+02:00" Dauer="02H48M52S" Kosten="5417" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="675585" Datum="2017-01-17T22:10:10.2430563+01:00" Dauer="15H30M10S" Kosten="7565" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="385676" Datum="2017-01-01T22:10:10.2430563+01:00" Dauer="17H28M19S" Kosten="9638" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="776993" Datum="2016-09-25T22:10:10.2430563+02:00" Dauer="22H43M34S" Kosten="509" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Green Arianna" Kunde-Code="2296-GREEN" Land="Japan" Straße="Collins's Road" Tel-nr="+55 2477 585026" Newsletter="nie" Forderung="408" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="684968" Datum="2016-03-07T22:10:10.2430563+01:00" Dauer="05H58M30S" Kosten="408" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Kaylee Hernandez" Kunde-Code="2296-KAYLE" Land="Russia" Straße="Green's Place" Tel-nr="+45 6886 613280" Newsletter="monatlich" Forderung="1948" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Beats by Dr Dre Stereo Anlage" Bestellung-Nr="624307" Datum="2016-12-31T22:10:10.2430563+01:00" Dauer="19H47M15S" Kosten="1948" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Collins King" Kunde-Code="2296-COLLI" Land="USA" Straße="Wright's Place" Tel-nr="+42 8426 124381" Newsletter="monatlich" Forderung="24609" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="618183" Datum="2016-02-19T22:10:10.2430563+01:00" Dauer="18H01M22S" Kosten="8047" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="365226" Datum="2016-03-14T22:10:10.2430563+01:00" Dauer="22H20M42S" Kosten="1047" Abgerechnet="true" />
+      <Bestellung Produkt-Name="JBL Bluetooth Charge 2+" Bestellung-Nr="843555" Datum="2016-07-16T22:10:10.2430563+02:00" Dauer="09H28M44S" Kosten="3964" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Watch Dogs 2" Bestellung-Nr="607458" Datum="2016-07-01T22:10:10.2430563+02:00" Dauer="22H04M03S" Kosten="6695" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="858400" Datum="2016-03-19T22:10:10.2430563+01:00" Dauer="07H57M55S" Kosten="4856" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Young Davis" Kunde-Code="2296-YOUNG" Land="Russia" Straße="Hill's Road" Tel-nr="+91 5597 808094" Newsletter="woechentlich" Forderung="31572" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Microsoft XBox One" Bestellung-Nr="986357" Datum="2016-08-23T22:10:10.2435567+02:00" Dauer="07H25M59S" Kosten="9308" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Sony PS4 Controler" Bestellung-Nr="461842" Datum="2016-05-28T22:10:10.2435567+02:00" Dauer="04H25M22S" Kosten="5999" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Intel Core i7" Bestellung-Nr="142036" Datum="2016-10-01T22:10:10.2435567+02:00" Dauer="00H35M53S" Kosten="5865" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="552077" Datum="2016-05-29T22:10:10.2435567+02:00" Dauer="18H07M52S" Kosten="1702" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="643920" Datum="2016-09-11T22:10:10.2435567+02:00" Dauer="05H08M18S" Kosten="8698" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="King Elizabeth" Kunde-Code="2296-KINGE" Land="Italy" Straße="Green's Road" Tel-nr="+15 5827 275160" Newsletter="woechentlich" Forderung="27696" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="732176" Datum="2017-01-14T22:10:10.2435567+01:00" Dauer="00H12M32S" Kosten="6186" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Psychopass PS Vita" Bestellung-Nr="994880" Datum="2016-07-09T22:10:10.2435567+02:00" Dauer="23H07M22S" Kosten="3501" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="212129" Datum="2016-04-26T22:10:10.2435567+02:00" Dauer="18H15M08S" Kosten="479" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="726572" Datum="2016-07-14T22:10:10.2435567+02:00" Dauer="16H32M27S" Kosten="9514" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple iPad" Bestellung-Nr="298446" Datum="2016-02-28T22:10:10.2435567+01:00" Dauer="19H17M52S" Kosten="8016" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Sophie Hernandez" Kunde-Code="2296-SOPHI" Land="Japan" Straße="Sophia's Place" Tel-nr="+33 6309 344132" Newsletter="woechentlich" Forderung="48340" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Dragonball Xenoverse 2" Bestellung-Nr="936313" Datum="2016-09-27T22:10:10.2435567+02:00" Dauer="08H31M16S" Kosten="7557" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="104574" Datum="2016-12-03T22:10:10.2435567+01:00" Dauer="11H02M39S" Kosten="175" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Darksouls 3" Bestellung-Nr="953864" Datum="2016-05-18T22:10:10.2435567+02:00" Dauer="21H40M54S" Kosten="9699" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Persona 5 PS Vita" Bestellung-Nr="447026" Datum="2016-03-05T22:10:10.2435567+01:00" Dauer="04H19M06S" Kosten="4291" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="495451" Datum="2016-04-30T22:10:10.2435567+02:00" Dauer="15H04M20S" Kosten="7510" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="794638" Datum="2016-05-21T22:10:10.2435567+02:00" Dauer="02H17M18S" Kosten="4065" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Battlefield 1" Bestellung-Nr="170027" Datum="2016-10-23T22:10:10.2435567+02:00" Dauer="12H23M37S" Kosten="2537" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="976805" Datum="2016-05-18T22:10:10.2435567+02:00" Dauer="03H03M38S" Kosten="3372" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="378478" Datum="2016-03-09T22:10:10.2435567+01:00" Dauer="10H09M25S" Kosten="9134" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Madelyn Garcia" Kunde-Code="2296-MADEL" Land="Korea" Straße="Scott's Alley" Tel-nr="+27 6894 385569" Newsletter="nie" Forderung="30953" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Steam Controler" Bestellung-Nr="429177" Datum="2016-12-07T22:10:10.2435567+01:00" Dauer="12H12M18S" Kosten="2506" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Maus" Bestellung-Nr="768147" Datum="2016-04-08T22:10:10.2435567+02:00" Dauer="10H19M27S" Kosten="9899" Abgerechnet="true" />
+      <Bestellung Produkt-Name="DOOM PS4" Bestellung-Nr="613507" Datum="2016-08-27T22:10:10.2435567+02:00" Dauer="11H59M08S" Kosten="6845" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="912064" Datum="2016-09-22T22:10:10.2435567+02:00" Dauer="07H21M21S" Kosten="7817" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="915100" Datum="2016-02-22T22:10:10.2435567+01:00" Dauer="03H42M59S" Kosten="3886" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Young Lewis" Kunde-Code="2296-YOUNG" Land="England" Straße="Baker's Street" Tel-nr="+43 2159 572463" Newsletter="woechentlich" Forderung="16975" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Apple Airpods" Bestellung-Nr="831511" Datum="2016-11-10T22:10:10.2435567+01:00" Dauer="02H07M05S" Kosten="3922" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="672235" Datum="2016-09-28T22:10:10.2435567+02:00" Dauer="12H16M29S" Kosten="196" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Switch" Bestellung-Nr="166245" Datum="2016-04-29T22:10:10.2435567+02:00" Dauer="02H24M45S" Kosten="7461" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="936146" Datum="2016-11-25T22:10:10.2435567+01:00" Dauer="20H09M15S" Kosten="5396" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Taylor Perez" Kunde-Code="2296-TAYLO" Land="Spain" Straße="Ella's Road" Tel-nr="+57 2545 889664" Newsletter="taeglich" Forderung="54354" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Marshall Major 2 Black" Bestellung-Nr="769121" Datum="2016-03-27T22:10:10.2435567+02:00" Dauer="01H53M57S" Kosten="6407" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Fifa 17" Bestellung-Nr="568989" Datum="2016-08-18T22:10:10.2435567+02:00" Dauer="16H34M45S" Kosten="9792" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Razer Tastatur Blackwidow X Chroma" Bestellung-Nr="257602" Datum="2016-09-10T22:10:10.2435567+02:00" Dauer="13H32M19S" Kosten="1022" Abgerechnet="true" />
+      <Bestellung Produkt-Name="HP Notebook" Bestellung-Nr="801067" Datum="2016-11-08T22:10:10.2435567+01:00" Dauer="15H11M33S" Kosten="4418" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="968492" Datum="2016-02-27T22:10:10.2435567+01:00" Dauer="04H47M41S" Kosten="694" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Steam Link" Bestellung-Nr="150135" Datum="2016-04-14T22:10:10.2435567+02:00" Dauer="02H34M32S" Kosten="3664" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Gatebox" Bestellung-Nr="636997" Datum="2016-11-08T22:10:10.2435567+01:00" Dauer="14H57M54S" Kosten="6684" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Skyrim V Special Edition" Bestellung-Nr="128708" Datum="2016-09-25T22:10:10.2435567+02:00" Dauer="23H13M50S" Kosten="7549" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Bose Bluetooth Mini 2" Bestellung-Nr="432661" Datum="2016-09-01T22:10:10.2435567+02:00" Dauer="18H30M47S" Kosten="7343" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo New 3DS" Bestellung-Nr="263147" Datum="2016-11-08T22:10:10.2435567+01:00" Dauer="18H17M19S" Kosten="6781" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+  <Promikunde Name="Arianna Thompson" Kunde-Code="2296-ARIAN" Land="Italy" Straße="Perez's Alley" Tel-nr="+38 7166 217852" Newsletter="nie" Forderung="27953" Rabatt="0">
+    <Bestellungen>
+      <Bestellung Produkt-Name="Eristoff Black" Bestellung-Nr="979817" Datum="2016-08-31T22:10:10.2435567+02:00" Dauer="08H17M55S" Kosten="7545" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Logitech Gaming Headset" Bestellung-Nr="360580" Datum="2016-10-21T22:10:10.2435567+02:00" Dauer="01H17M41S" Kosten="7404" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Nintendo Wii" Bestellung-Nr="667379" Datum="2016-03-12T22:10:10.2435567+01:00" Dauer="12H52M08S" Kosten="4114" Abgerechnet="true" />
+      <Bestellung Produkt-Name="Abendmahlzeit mit Champagner" Bestellung-Nr="599860" Datum="2016-04-28T22:10:10.2435567+02:00" Dauer="20H16M12S" Kosten="8890" Abgerechnet="true" />
+    </Bestellungen>
+  </Promikunde>
+</Kundenliste>

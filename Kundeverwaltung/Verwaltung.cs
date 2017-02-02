@@ -49,7 +49,7 @@ namespace Kundeverwaltung
             }
             save();
         }
-        public void bezahlen(String s)
+        public Kunde bezahlen(String s)
         {
             //5192-ROBIN
             var k=KundeListe.Where(x=>x.KundeCode.Equals(s)).ToList();
@@ -61,16 +61,18 @@ namespace Kundeverwaltung
                 {
                     neu.RabattBenutz = true;
                     neu.KundenForderung = 0;
+                    return neu;
                 }
                 else
                 {
                     NormalKunde n = new NormalKunde(o.Name, o.Land, o.Strasse, o.Tel, o.HaeufigkeitNewsletter);
                     n.Bestellungen = o.Bestellungen;
                     KundeListe.Add(n);
+                    return n;
                 }
-                return;
             }
-            k.FirstOrDefault().KundenForderung = 0;
+            o.KundenForderung = 0;
+            return o;
         }
         public void checkNormalkunden()
         {
@@ -209,22 +211,11 @@ namespace Kundeverwaltung
                     string m = "";
                     string sec = "";
                     TimeSpan time = new TimeSpan(0);
-                    if (item2.Dau.Substring(0, 2) == "PT")
-                    {
-                        String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
-                        h = t.Split('H')[0];
-                        Console.WriteLine(h);
-                        m = t.Split('H')[1].Split('M')[0];
-                        sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
-                        time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
-                    else
-                    {
-                        String t = item2.Dau.Substring(4, item2.Dau.Length - 4);
-                        m = t.Split('M')[0];
-                        sec = t.Split('M')[1].Split('S')[0];
-                        time = new TimeSpan(0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
+                    String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
+                    h = t.Split('H')[0];
+                    m = t.Split('H')[1].Split('M')[0];
+                    sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
+                    time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
                     Bestellung b = new Bestellung(item2.Name, item2.Nr, item2.Dat, time, item2.Kosten);
                     b.Abgerechnet = item2.Ab;
                     best.add(b);
@@ -269,22 +260,11 @@ namespace Kundeverwaltung
                     string m = "";
                     string sec = "";
                     TimeSpan time = new TimeSpan(0);
-                    if (item2.Dau.Substring(0, 2) == "PT")
-                    {
-                        String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
-                        h = t.Split('H')[0];
-                        Console.WriteLine(h);
-                        m = t.Split('H')[1].Split('M')[0];
-                        sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
-                        time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
-                    else
-                    {
-                        String t = item2.Dau.Substring(4, item2.Dau.Length - 4);
-                        m = t.Split('M')[0];
-                        sec = t.Split('M')[1].Split('S')[0];
-                        time = new TimeSpan(0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
+                    String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
+                    h = t.Split('H')[0];
+                    m = t.Split('H')[1].Split('M')[0];
+                    sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
+                    time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
                     Bestellung b = new Bestellung(item2.Name, item2.Nr, item2.Dat, time, item2.Kosten);
                     b.Abgerechnet = item2.Ab;
                     best.add(b);
@@ -329,22 +309,11 @@ namespace Kundeverwaltung
                     string m = "";
                     string sec = "";
                     TimeSpan time = new TimeSpan(0);
-                    if (item2.Dau.Substring(0, 2) == "PT")
-                    {
-                        String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
-                        h = t.Split('H')[0];
-                        Console.WriteLine(h);
-                        m = t.Split('H')[1].Split('M')[0];
-                        sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
-                        time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
-                    else
-                    {
-                        String t = item2.Dau.Substring(4, item2.Dau.Length - 4);
-                        m = t.Split('M')[0];
-                        sec = t.Split('M')[1].Split('S')[0];
-                        time = new TimeSpan(0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
+                    String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
+                    h = t.Split('H')[0];
+                    m = t.Split('H')[1].Split('M')[0];
+                    sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
+                    time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
                     Bestellung b = new Bestellung(item2.Name, item2.Nr, item2.Dat, time, item2.Kosten);
                     b.Abgerechnet = item2.Ab;
                     best.add(b);
@@ -388,22 +357,11 @@ namespace Kundeverwaltung
                     string m = "";
                     string sec = "";
                     TimeSpan time = new TimeSpan(0);
-                    if (item2.Dau.Substring(0, 2) == "PT")
-                    {
-                        String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
-                        h = t.Split('H')[0];
-                        Console.WriteLine(h);
-                        m = t.Split('H')[1].Split('M')[0];
-                        sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
-                        time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
-                    else
-                    {
-                        String t = item2.Dau.Substring(4, item2.Dau.Length - 4);
-                        m = t.Split('M')[0];
-                        sec = t.Split('M')[1].Split('S')[0];
-                        time = new TimeSpan(0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
-                    }
+                    String t = item2.Dau.Substring(2, item2.Dau.Length - 2);
+                    h = t.Split('H')[0];
+                    m = t.Split('H')[1].Split('M')[0];
+                    sec = t.Split('H')[1].Split('M')[1].Split('S')[0];
+                    time = new TimeSpan((h != "") ? Int32.Parse(h) : 0, (m != "") ? Int32.Parse(m) : 0, (sec != "") ? Int32.Parse(sec) : 0);
                     Bestellung b = new Bestellung(item2.Name, item2.Nr, item2.Dat, time, item2.Kosten);
                     b.Abgerechnet = item2.Ab;
                     best.add(b);

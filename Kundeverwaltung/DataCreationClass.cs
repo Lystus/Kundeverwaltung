@@ -88,7 +88,7 @@ namespace Kundeverwaltung
                             new XAttribute("Produkt-Name", b.Produkt),
                             new XAttribute("Bestellung-Nr", b.BestellungNr),
                             new XAttribute("Datum", b.Datum),
-                            new XAttribute("Dauer", b.Dauer),
+                            new XAttribute("Dauer", b.Dauer.ToString(@"hh\Hmm\Mss\S")),
                             new XAttribute("Kosten", b.Kosten),
                             new XAttribute("Abgerechnet", b.Abgerechnet)
                         ))
@@ -107,7 +107,7 @@ namespace Kundeverwaltung
                             new XAttribute("Produkt-Name", b.Produkt),
                             new XAttribute("Bestellung-Nr", b.BestellungNr),
                             new XAttribute("Datum", b.Datum),
-                            new XAttribute("Dauer", b.Dauer),
+                            new XAttribute("Dauer", b.Dauer.ToString(@"hh\Hmm\Mss\S")),
                             new XAttribute("Kosten", b.Kosten),
                             new XAttribute("Abgerechnet", b.Abgerechnet)
                             ))),
@@ -128,7 +128,7 @@ namespace Kundeverwaltung
                             new XAttribute("Produkt-Name", b.Produkt),
                             new XAttribute("Bestellung-Nr", b.BestellungNr),
                             new XAttribute("Datum", b.Datum),
-                            new XAttribute("Dauer", b.Dauer),
+                            new XAttribute("Dauer", b.Dauer.ToString(@"hh\Hmm\Mss\S")),
                             new XAttribute("Kosten", b.Kosten),
                             new XAttribute("Abgerechnet", b.Abgerechnet)
                             ))),
@@ -147,13 +147,13 @@ namespace Kundeverwaltung
                             new XAttribute("Produkt-Name", b.Produkt),
                             new XAttribute("Bestellung-Nr", b.BestellungNr),
                             new XAttribute("Datum", b.Datum),
-                            new XAttribute("Dauer", b.Dauer),
+                            new XAttribute("Dauer", b.Dauer.ToString(@"hh\Hmm\Mss\S")),
                             new XAttribute("Kosten", b.Kosten),
                             new XAttribute("Abgerechnet", b.Abgerechnet)
                             )))
 
                 );
-            erg.Save("../../kundenbestellungen.xml");
+            erg.Save("../../test.xml");
         }
         public void makeStamm()
         {
@@ -161,7 +161,9 @@ namespace Kundeverwaltung
             int i = 0;
             while (i <= r.Next(21))
             {
-                n.addBestellung(makeBestellung());
+                Bestellung b = makeBestellung();
+                if (!b.Equals(null))
+                    n.Bestellungen.List.Add(makeBestellung());
                 i++;
             }
             if(!KundeListe.Contains(n))
@@ -174,7 +176,13 @@ namespace Kundeverwaltung
 
             while (i <= r.Next(21))
             {
-                n.addBestellung(makeBestellung());
+                Bestellung b = makeBestellung();
+                if (!b.Equals(null))
+                    n.Bestellungen.List.Add(b);
+                else
+                {
+
+                }
                 i++;
             }
             if (!KundeListe.Contains(n))
@@ -186,7 +194,13 @@ namespace Kundeverwaltung
             int i = 0;
             while (i <= r.Next(21))
             {
-                n.addBestellung(makeBestellung());
+                Bestellung b = makeBestellung();
+                if (!b.Equals(null))
+                    n.Bestellungen.List.Add(makeBestellung());
+                else
+                {
+
+                }
                 i++;
             }
             if (!KundeListe.Contains(n))
@@ -199,7 +213,13 @@ namespace Kundeverwaltung
 
             while (i <= r.Next(21))
             {
-                n.addBestellung(makeBestellung());
+                Bestellung b = makeBestellung();
+                if (!b.Equals(null))
+                    n.Bestellungen.List.Add(makeBestellung());
+                else
+                {
+
+                }
                 i++;
             }
             if (!KundeListe.Contains(n))

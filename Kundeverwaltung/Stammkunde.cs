@@ -25,12 +25,14 @@ namespace Kundeverwaltung
 
         public void addBestellung(Bestellung b)
         {
-            base.Bestellungen.add(b);
+            if(b!=null)
+                base.Bestellungen.add(b);
         }
 
         public void delBestellung(Bestellung b)
         {
-            base.Bestellungen.del(b);
+            if (b != null)
+                base.Bestellungen.del(b);
         }
         public Stammkunde(String n, String l, String s, String t, Intervall i) : base(n, l, s, t, i)
         {

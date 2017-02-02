@@ -10,12 +10,13 @@ namespace Kundeverwaltung
     {
         static void Main(string[] args)
         {
-            //DataCreationClass d = new DataCreationClass();
+            DataCreationClass d = new DataCreationClass();
             //Abfrage3();
             //erg.Save("../../kundenbestellungen.xml");
             var xml = XElement.Load("../../kundenbestellungen.xml");
             Verwaltung vw = new Verwaltung(xml);
             //vw.ausgeben();
+            Console.WriteLine(  vw.bezahlen("4791-OLIVI"));
             Console.ReadLine();
         }
         public static void Abfrage1()

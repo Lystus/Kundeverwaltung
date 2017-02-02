@@ -136,6 +136,7 @@ namespace Kundeverwaltung
             Tel = t;
             KundeCode = createKundeCode(n);
             HaeufigkeitNewsletter = i;
+            Bestellungen = new Bestellungen();
 
         }
         public Kunde(String n, String l, String s, String t,String k,Intervall i)
@@ -146,6 +147,7 @@ namespace Kundeverwaltung
             Tel = t;
             KundeCode = k;
             HaeufigkeitNewsletter = i;
+            Bestellungen = new Bestellungen();
         }
         public String createKundeCode(String s)
         {

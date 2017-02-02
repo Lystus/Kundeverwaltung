@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kundeverwaltung
 {
-    class Bestellungen
+    public class Bestellungen
     {
         List<Bestellung> list;
 
